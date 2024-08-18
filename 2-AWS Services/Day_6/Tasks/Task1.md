@@ -27,6 +27,10 @@ _**Task #1 - 18.08.2024**_
 
 ✅ Install t2.micro ubuntu server via AWS CLI (ami-id + key pair + security grup id + region)
 
+![image](https://github.com/user-attachments/assets/277263f9-4e62-4d6e-92d2-2e8f798e47e6)
+
+![image](https://github.com/user-attachments/assets/fe04217b-b829-4842-b423-3950f31c3b9c)
+
 
 ✅ Connect to the ubuntu server that you set up with the Bitvise ssh client on your computer using the ssh (22) protocol
 
