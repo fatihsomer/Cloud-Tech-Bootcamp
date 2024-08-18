@@ -3,6 +3,8 @@ _**Task #1 - 18.08.2024**_
 
 ✅ Login to AWS console with **root** account
 
+![image](https://github.com/user-attachments/assets/815b9140-fc08-4893-86d1-5cb4b226aac5)
+
 
 ✅ Create a new user name sevgi using **IAM** service
 
