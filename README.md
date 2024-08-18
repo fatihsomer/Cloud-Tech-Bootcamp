@@ -1,2 +1,2 @@
-# Cloud-Tech-Bootcamp
+# Cloud Tech Bootcamp
 IBB Tech Istanbul
