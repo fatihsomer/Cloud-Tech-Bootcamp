@@ -5,7 +5,7 @@ AWS Console -> IAM
 
 ![image](https://github.com/user-attachments/assets/a9832119-ade7-49ae-8612-fc0ae03a6f00)
 
-Create User
+Users -> Create User
 
 ![image](https://github.com/user-attachments/assets/350db5d5-ef95-4b4f-bbab-b8524097d2c4)
 
