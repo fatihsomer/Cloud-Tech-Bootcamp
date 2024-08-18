@@ -11,4 +11,4 @@ https://www.youtube.com/watch?v=5Sai6mUbD_w
 - Login with MFA
 
 
-2- CLI (Command Line Interface)
+2- CLI (Command Line Interface)  [CLI.md](CLI.md)
