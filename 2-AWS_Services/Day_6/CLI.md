@@ -26,7 +26,7 @@ bootcampkey
 
 # Configure CLI
 
-Copy Region Information (eu-central-1 - will be used as **region**)
+Copy Region Information (**eu-central-1** - will be used as **region**)
 
 ![image](https://github.com/user-attachments/assets/63cb5ccc-7a0c-4570-9c1e-1125131f63f4)
 
@@ -38,25 +38,25 @@ Windows + R (run) -> cmd (command prompt) -> aws configure
 
 # Install Ubuntu server using CLI
 
-EC2 -> Launch Instance -> select Ubuntu -> copy AMI ID (ami-0e872aee57663ae2d - will be used as **image-id**)
+EC2 -> Launch Instance -> select Ubuntu -> copy AMI ID (**ami-0e872aee57663ae2d** - will be used as **image-id**)
 
 ![image](https://github.com/user-attachments/assets/4fabe313-cd62-4412-9d50-c8a99c20b0c9)
 
-Go down and click Create new key pair (will be used as **key-name**)
+Go down and click Create new key pair (**bootcampkey** - will be used as **key-name**)
 
 ![image](https://github.com/user-attachments/assets/ba0374af-47f4-4166-9c09-baede78149ca)
 
 ![image](https://github.com/user-attachments/assets/e912db05-02b0-4c6e-a963-58cfa4bfe40c)
 
 
-EC2 -> Security Groups -> copy default Security group ID (sg-0b4... - will be used as **security-group-ids**)
+EC2 -> Security Groups -> copy default Security group ID (**sg-0b4...** - will be used as **security-group-ids**)
 
 ![image](https://github.com/user-attachments/assets/025a147b-6c5c-40e1-82ae-cf252702c825)
 
 
 run the below command in cmd and then it will create a new ubuntu server
 
-aws ec2 run-instances --image-id ami-0e872aee57663ae2d --count 1 --instance-type t2.micro --key-name bootcampkey --security-group-ids sg-0b4... --region eu-central-1
+aws ec2 run-instances --image-id **ami-0e872aee57663ae2d** --count 1 --instance-type t2.micro --key-name **bootcampkey** --security-group-ids **sg-0b4...** --region **eu-central-1**
 
 ![image](https://github.com/user-attachments/assets/fca7b929-ee92-46e0-a0ce-0efeebee4fc4)
 
