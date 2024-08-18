@@ -20,14 +20,15 @@ Launch Instance
 
 ![image](https://github.com/user-attachments/assets/058177ea-2f56-48d4-a95b-d8cc599cc1ef)
 
-![image](https://github.com/user-attachments/assets/01635fca-46bc-493f-baa3-9d7b10740010)
+![image](https://github.com/user-attachments/assets/3a4d3c3b-ffb2-4076-a160-40ee1fbe182b)
 
 
 # Connect to Server
 
 Connect
 
-![image](https://github.com/user-attachments/assets/b5e7723c-d54f-4c8c-8a85-19dfc5478ffc)
+![image](https://github.com/user-attachments/assets/67f918d2-95ad-4a76-84fa-2022887d1a40)
+
 
 Download remote desktop file
 
