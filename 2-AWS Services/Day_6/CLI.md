@@ -42,3 +42,14 @@ EC2 -> Launch Instance -> select Ubuntu -> copy AMI ID (ami-0e872aee57663ae2d)
 
 ![image](https://github.com/user-attachments/assets/4fabe313-cd62-4412-9d50-c8a99c20b0c9)
 
+Go down and click Create new key pair
+
+![image](https://github.com/user-attachments/assets/ba0374af-47f4-4166-9c09-baede78149ca)
+
+![image](https://github.com/user-attachments/assets/e912db05-02b0-4c6e-a963-58cfa4bfe40c)
+
+
+EC2 -> Security Groups -> copy default Security group ID (sg-0b4...)
+
+![image](https://github.com/user-attachments/assets/025a147b-6c5c-40e1-82ae-cf252702c825)
+
