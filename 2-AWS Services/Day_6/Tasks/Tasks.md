@@ -17,8 +17,14 @@ Task #1
 
 ✅ Create access and secret key for **sevgi** user
 
+![5_user_sevgi_key](https://github.com/user-attachments/assets/b5150369-b6c8-494e-8349-210f81aa0a19)
+
+![image](https://github.com/user-attachments/assets/12bdb3d0-c195-4843-bd86-7db28b83ddfe)
+
 
 ✅ Using the AWS CLI tool installed on your computer, define the **sevgi** user keys and region information with the "aws configure" command
+
+![image](https://github.com/user-attachments/assets/c70d89b5-b78a-4c97-8693-9da7d865a485)
 
 
 ✅ Install t2.micro ubuntu server via AWS CLI (ami-id + key pair + security grup id + region)
