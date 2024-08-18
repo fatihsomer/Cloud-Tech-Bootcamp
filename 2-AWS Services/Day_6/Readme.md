@@ -12,3 +12,7 @@ https://www.youtube.com/watch?v=5Sai6mUbD_w
 
 
 2- CLI (Command Line Interface)  [CLI.md](CLI.md)
+- Download and Install CLI tool
+- Create access key for CLI
+- Configure CLI
+- Install Ubuntu server using CLI
