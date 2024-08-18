@@ -1,7 +1,7 @@
 
 # Creating a new user steps:
 
-Login with root user -> AWS Console -> IAM
+Login with **root** user -> AWS Console -> IAM
 
 ![image](https://github.com/user-attachments/assets/a9832119-ade7-49ae-8612-fc0ae03a6f00)
 
