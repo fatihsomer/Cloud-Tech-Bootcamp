@@ -1,4 +1,6 @@
-**_Today's Lesson video (17.08.2024 Saturday) :_**
+_**Day 6 - 17.08.2024 Saturday**_
+
+**_Today's Lesson video :_**
 
 https://www.youtube.com/watch?v=5Sai6mUbD_w
 
