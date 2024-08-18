@@ -35,3 +35,10 @@ Windows + R (run) -> cmd (command prompt) -> aws configure
 
 ![image](https://github.com/user-attachments/assets/278a4291-41da-4ea3-bef1-78c09c6a99f6)
 
+
+# Install Ubuntu server
+
+EC2 -> Launch Instance -> select Ubuntu -> copy AMI ID (ami-0e872aee57663ae2d)
+
+![image](https://github.com/user-attachments/assets/4fabe313-cd62-4412-9d50-c8a99c20b0c9)
+
