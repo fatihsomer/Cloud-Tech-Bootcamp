@@ -36,5 +36,11 @@ Amazon ID, username, password
 
 ![image](https://github.com/user-attachments/assets/0639bb37-024a-46f0-b625-8675182bb188)
 
+Change password
 
+![image](https://github.com/user-attachments/assets/547eff17-6f5c-4a16-bef5-95200cd703ba)
+
+AWS Console
+
+![image](https://github.com/user-attachments/assets/27d24e66-bf85-4dec-b0d3-1696101e2c30)
 
