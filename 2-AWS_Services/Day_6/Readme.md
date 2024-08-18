@@ -16,3 +16,4 @@ https://www.youtube.com/watch?v=5Sai6mUbD_w
 - Create access key for CLI
 - Configure CLI
 - Install Ubuntu server using CLI
+- Connect with SSH
