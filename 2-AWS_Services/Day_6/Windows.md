@@ -32,5 +32,18 @@ Connect
 
 Download remote desktop file
 
-![image](https://github.com/user-attachments/assets/fdebdd09-eeaa-4bf0-9b4b-c9b2ab87789b)
+![image](https://github.com/user-attachments/assets/ea915f8b-91c5-4a2b-8868-6ce222fbc969)
 
+
+Get password -> Upload private key file -> bootcampkey.pem -> Decrypt password -> copy password
+
+![image](https://github.com/user-attachments/assets/cd79807e-4970-4490-9144-acee6fd139b3)
+
+![image](https://github.com/user-attachments/assets/8dfd4f64-f423-479a-b874-b2a31ab4f738)
+
+
+open RDP file
+
+![image](https://github.com/user-attachments/assets/08b89057-b181-4160-a709-225fc47009a0)
+
+![image](https://github.com/user-attachments/assets/61bafdba-0e57-470d-8ae7-86e6413afe68)
