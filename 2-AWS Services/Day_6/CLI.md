@@ -9,7 +9,8 @@ _**Day 6 - 17.08.2024 Saturday**_
 
 # Create access Key
 
-![image](https://github.com/user-attachments/assets/eb565d2d-a409-49ca-b786-27e3f6d09117)
+![image](https://github.com/user-attachments/assets/54b44643-39fa-4eab-a4f4-3aeab800b233)
+
 
 CLI and Confirmation
 
