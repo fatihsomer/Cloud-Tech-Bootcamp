@@ -1,4 +1,4 @@
-_**Task #1 - 18.08.2024**_
+_**Task #1 - 18.08.2024 Sunday**_
 
 
 ✅ Login to AWS console with **root** account
