@@ -1,5 +1,5 @@
 
-_**Day 6 - 17.08.2024**_
+_**Day 6 - 17.08.2024 Saturday**_
 
 # Creating a new user steps:
 
