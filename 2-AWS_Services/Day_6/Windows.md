@@ -42,8 +42,21 @@ Get password -> Upload private key file -> bootcampkey.pem -> Decrypt password -
 ![image](https://github.com/user-attachments/assets/8dfd4f64-f423-479a-b874-b2a31ab4f738)
 
 
-open RDP file
+Open RDP file
 
 ![image](https://github.com/user-attachments/assets/08b89057-b181-4160-a709-225fc47009a0)
 
+Connect
+
 ![image](https://github.com/user-attachments/assets/61bafdba-0e57-470d-8ae7-86e6413afe68)
+
+Enter Password
+
+![image](https://github.com/user-attachments/assets/a29b3f61-d5f2-480f-bec2-4b04984c4d04)
+
+Connect
+
+![image](https://github.com/user-attachments/assets/6893ecbd-ed07-472c-92fc-eed0738d1286)
+
+![image](https://github.com/user-attachments/assets/1140bae7-e7f8-4e34-bd61-a243daff5027)
+
