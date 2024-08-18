@@ -44,5 +44,17 @@ AWS Console
 
 ![image](https://github.com/user-attachments/assets/27d24e66-bf85-4dec-b0d3-1696101e2c30)
 
+Sign out
+
 ![image](https://github.com/user-attachments/assets/0913eeb8-295a-4237-87a7-cb83c1414f61)
 
+
+# MFA Activate steps:
+
+Login with **root** user -> AWS Console -> IAM -> Users
+
+![image](https://github.com/user-attachments/assets/18057017-f1af-4993-b236-cb8e8d787e12)
+
+Select User -> Enable MFA
+
+![image](https://github.com/user-attachments/assets/68152c9a-92e2-4e73-a051-0c8913165013)
