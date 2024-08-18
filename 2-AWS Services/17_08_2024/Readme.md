@@ -21,4 +21,10 @@ Create user
 
 ![image](https://github.com/user-attachments/assets/47e34edb-aa31-4b73-b3d8-8484d55234c4)
 
+User created
+
 ![image](https://github.com/user-attachments/assets/80b55efa-30b3-40d9-8856-0e264aee45d2)
+
+Return to uses list
+
+![image](https://github.com/user-attachments/assets/abc1cc25-5ebe-44a3-ac4c-5715e92cd059)
