@@ -9,7 +9,7 @@ sudo su
 ![0_super_user](https://github.com/user-attachments/assets/95c89662-8d9b-4366-aac4-a74995836582)
 
 
-- To add a Linux user, type the following adduser command and press enter, type your new password twice then press enter for others.
+- To add a Linux user, type the following adduser command and press enter, type your new password twice then press enter for others
 
 - create below users consisting of family members
 
