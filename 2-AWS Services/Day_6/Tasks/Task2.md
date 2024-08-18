@@ -76,3 +76,15 @@ sudo usermod -aG sudo lena
 sudo usermod -aG sudo bilge
 
 ![4b_user_root](https://github.com/user-attachments/assets/f92d6a9f-805a-454e-aa36-8aef3c5f7fcd)
+
+- list users
+ 
+cat /etc/passwd | tail -n -5
+
+![image](https://github.com/user-attachments/assets/c62e482b-bc39-49a9-9f78-4ad48a8ed1a9)
+
+- list groups and users
+
+cat /etc/group | tail -2
+
+![image](https://github.com/user-attachments/assets/0dbf7462-1ef2-4eb8-987a-17161bf93197)
