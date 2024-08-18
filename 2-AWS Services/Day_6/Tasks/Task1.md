@@ -34,3 +34,8 @@ _**Task #1 - 18.08.2024**_
 
 ✅ Connect to the ubuntu server that you set up with the Bitvise ssh client on your computer using the ssh (22) protocol
 
+![image](https://github.com/user-attachments/assets/6356975d-cbc7-4580-9433-9d3b25ca720e)
+
+![image](https://github.com/user-attachments/assets/37a00f22-a3bd-48d2-8ab7-d27fd5f90588)
+
+
