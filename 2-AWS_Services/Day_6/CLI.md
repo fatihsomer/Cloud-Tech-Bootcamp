@@ -64,4 +64,17 @@ We can see the newly created ubuntu server in EC2 -> Instances section
 
 ![image](https://github.com/user-attachments/assets/621e0d60-4144-44dc-98f6-2926a511d6cb)
 
+# Connect with SSH
+
+EC2 -> Instance -> Security tab and check SSH port is available for Inbound rules
+
+![image](https://github.com/user-attachments/assets/819564bd-eaee-43cf-999d-8d7525de354d)
+
+Connect SSH using Bitvise app
+
+![image](https://github.com/user-attachments/assets/6fd433b9-78cc-4753-a714-0db5a25e5c80)
+
+Open terminal
+
+![image](https://github.com/user-attachments/assets/737041d6-24e0-4421-8991-34253222cee4)
 
