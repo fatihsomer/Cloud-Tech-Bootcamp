@@ -1,5 +1,5 @@
 
-Creating a new user steps:
+# Creating a new user steps:
 
 AWS Console -> IAM
 
@@ -20,3 +20,5 @@ ec2full, rdsfull, s3full
 Create user
 
 ![image](https://github.com/user-attachments/assets/47e34edb-aa31-4b73-b3d8-8484d55234c4)
+
+![image](https://github.com/user-attachments/assets/80b55efa-30b3-40d9-8856-0e264aee45d2)
