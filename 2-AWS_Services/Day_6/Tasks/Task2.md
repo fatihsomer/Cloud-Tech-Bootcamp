@@ -1,4 +1,4 @@
-_**Task #2 - 18.08.2024**_
+_**Task #2 - 18.08.2024 Sunday**_
 
 You are now connected to the ubuntu server via **ssh**
 
