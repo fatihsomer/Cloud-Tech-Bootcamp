@@ -28,3 +28,13 @@ User created (Scribbled part is your Amazon ID)
 Return to uses list
 
 ![image](https://github.com/user-attachments/assets/abc1cc25-5ebe-44a3-ac4c-5715e92cd059)
+
+
+# Login with new user steps:
+
+Amazon ID, username, password
+
+![image](https://github.com/user-attachments/assets/0639bb37-024a-46f0-b625-8675182bb188)
+
+
+
