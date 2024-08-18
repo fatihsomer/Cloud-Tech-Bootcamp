@@ -1,5 +1,5 @@
 
-Creating a new user:
+Creating a new user steps:
 
 AWS Console -> IAM
 
