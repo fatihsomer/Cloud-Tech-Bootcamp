@@ -1,4 +1,6 @@
 
+_**Day 6 - 17.08.2024**_
+
 # Creating a new user steps:
 
 Login with **root** user -> AWS Console -> IAM
