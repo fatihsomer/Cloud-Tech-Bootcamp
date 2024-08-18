@@ -18,5 +18,6 @@ RDP
 
 Launch Instance
 
-![image](https://github.com/user-attachments/assets/1214caf5-b911-4ab0-bc6b-249066ee7d2d)
+![image](https://github.com/user-attachments/assets/058177ea-2f56-48d4-a95b-d8cc599cc1ef)
 
+![image](https://github.com/user-attachments/assets/01635fca-46bc-493f-baa3-9d7b10740010)
