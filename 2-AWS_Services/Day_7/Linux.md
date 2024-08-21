@@ -33,7 +33,8 @@ ll → list inside folder with file and folder details
 We always take a file backup before changing it!!!
 
 If the result we expect is not the one then we can restore the old file
-cp old new
+
+cp .profile .profile_backup → copy file for backup
 
 vi .profile → file is opened using vi text editor
 
@@ -50,6 +51,7 @@ cat /home/ubuntu/august.html → displays the file content
 
 
 # nano text editor
+
 nano september.html → file is opened using nano text editor
 
 CTRL + x then y → save then exit from the file
@@ -74,3 +76,14 @@ sudo apt update → checks available packages and shows those that can be update
 sudo apt upgrade → will download available package updates
 
 https://www.novicedev.com/blog/how-update-linux-packages-command
+
+sudo apt install → installs a package
+
+sudo apt install nmap → installs nmap package
+
+sudo apt remove → removes a package
+
+sudo apt remove nmap → removes nmap package
+
+
+
