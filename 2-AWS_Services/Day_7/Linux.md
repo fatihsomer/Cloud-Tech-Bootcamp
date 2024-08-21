@@ -20,9 +20,7 @@ ESC + O → inserts a blank line below
 
 ESC + / → search
 
-#→ comment line
-
-
+# File backup, edit and display
 
 sudo su → super user mode
 
@@ -38,6 +36,8 @@ cp .profile .profile_backup → copy file for backup
 
 vi .profile → file is opened using vi text editor
 
+#→ comment line
+
 We pressed 3 times ESC + O and ESC + :x then exit
 
 cat .profile → displays file contents
@@ -45,7 +45,6 @@ cat .profile → displays file contents
 more .profile → displays file contents
 
 clear → clear the screen
-
 
 cat /home/ubuntu/august.html → displays the file content
 
