@@ -18,6 +18,8 @@ ESC + :x! → save then exit from the file
 
 ESC + O → inserts a blank line below
 
+ESC + / → search
+
 #→ comment line
 
 
@@ -45,4 +47,21 @@ clear → clear the screen
 
 
 cat /home/ubuntu/august.html → displays the file content
+
+
+# nano text editor
+nano september.html → file is opened using nano text editor
+
+CTRL + x then y → save then exit from the file
+
+CTRL + o → save file
+
+CTRL + k → cut
+
+CTRL + u → Paste
+
+CTRL + u → Search
+
+We opened a new terminal and ran the vi editor
+
 
