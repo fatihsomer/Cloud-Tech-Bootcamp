@@ -65,3 +65,12 @@ CTRL + u → Search
 We opened a new terminal and ran the vi editor
 
 
+# apt (advanced package tool) command
+
+After creating the Linux operating system, we must first perform update and upgrade!!!
+
+sudo apt update → checks available packages and shows those that can be updated, synchronizes package index with source
+
+sudo apt upgrade → will download available package updates
+
+https://www.novicedev.com/blog/how-update-linux-packages-command
