@@ -4,7 +4,7 @@ _**Today's Lesson video :**_
 
 1- Linux (OS) [Linux.md](Linux.md)
 - vi and nano text editors
-- cat and more commands
+- File backup, edit and display (cat and more commands)
 - apt command
 
 2- S3 (Simple Storage Service) [S3.md](S3.md)
