@@ -6,6 +6,9 @@ Connect to Ubuntu via ssh and open terminal
 
 [File backup, edit and display](#File-backup,-edit-and-display)
 
+[nano text editor](#nano-text-editor)
+
+
 ## vi text editor
 
 vi august.html → file is opened using vi text editor
