@@ -8,6 +8,8 @@ Connect to Ubuntu via ssh and open terminal
 
 [nano text editor](#nano-text-editor)
 
+[apt (advanced package tool) command](apt-advanced-package-tool-command)
+
 
 ## vi text editor
 
