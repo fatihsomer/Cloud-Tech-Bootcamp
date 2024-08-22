@@ -10,6 +10,6 @@ RDS
 - Create Database (Standart)
 - Create Database (Easy)
 - Connect to Database
-- - Connect to Mysql from our Machine
+  - Connect to Mysql from our Machine
   - Connect to Mysql from Ubuntu (EC2)
 - Stop and Delete
