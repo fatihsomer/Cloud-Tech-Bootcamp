@@ -2,6 +2,9 @@ _**Day 7 - 20.08.2024 Tuesday**_
 
 _**Today's Lesson video :**_
 
+https://www.youtube.com/watch?v=qXokPUEK6xI&t=7s
+
+
 1- Linux (OS) [Linux.md](Linux.md)
 - vi and nano text editors
 - File backup, edit and display (cat and more commands)
