@@ -2,11 +2,11 @@
 _**Day 6 - 17.08.2024 Saturday**_
 
 
-[Creating a new user steps:](#Creating-a-new-user-steps)
+[Creating a new user steps](#Creating-a-new-user-steps)
 
-[Login with new user steps:](#Login-with-new-user-steps)
+[Login with new user steps](#Login-with-new-user-steps)
 
-[MFA Activate steps:](#MFA-Activate-steps)
+[MFA Activate steps](#MFA-Activate-steps)
 
 [Login with MFA](#Login-with-MFA)
 
