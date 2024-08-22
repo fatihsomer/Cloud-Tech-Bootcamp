@@ -2,7 +2,9 @@ _**Day 7 - 20.08.2024 Tuesday**_
 
 Connect to Ubuntu via ssh and open terminal
 
-# vi text editor
+[vi text editor](#vi-text-editor)
+
+## vi text editor
 
 vi august.html → file is opened using vi text editor
 
@@ -20,7 +22,7 @@ ESC + O → inserts a blank line below
 
 ESC + / → search
 
-# File backup, edit and display
+## File backup, edit and display
 
 sudo su → super user mode
 
@@ -49,7 +51,7 @@ clear → clear the screen
 cat /home/ubuntu/august.html → displays the file content
 
 
-# nano text editor
+## nano text editor
 
 nano september.html → file is opened using nano text editor
 
@@ -66,7 +68,7 @@ CTRL + u → Search
 We opened a new terminal and ran the vi editor
 
 
-# apt (advanced package tool) command
+## apt (advanced package tool) command
 
 After creating the Linux operating system, we must first perform update and upgrade!!!
 
