@@ -2,11 +2,11 @@ _**Day 8 - 22.08.2024 Tuesday**_
 
 _**Today's Lesson video :**_
 
-S3
+1- S3
 - File version
 - Task
 
-RDS
+2- RDS
 - Create Database (Standart)
 - Create Database (Easy)
 - Connect to Database
