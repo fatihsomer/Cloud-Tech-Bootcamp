@@ -1,15 +1,15 @@
 _**Day 6 - 17.08.2024 Saturday**_
 
 
-[Download and Install CLI tool](#Download-and-Install-CLI-tool)
+- [Download and Install CLI tool](#Download-and-Install-CLI-tool)
 
-[Create access key for CLI](#Create-access-key-for-CLI)
+- [Create access key for CLI](#Create-access-key-for-CLI)
 
-[Configure CLI](#Configure-CLI)
+- [Configure CLI](#Configure-CLI)
 
-[Install Ubuntu server using CLI](#Install-Ubuntu-server-using-CLI)
+- [Install Ubuntu server using CLI](#Install-Ubuntu-server-using-CLI)
 
-[Connect with SSH](#Connect-with-SSH)
+- [Connect with SSH](#Connect-with-SSH)
 
 
 
