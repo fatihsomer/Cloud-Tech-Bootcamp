@@ -17,6 +17,9 @@ https://www.youtube.com/watch?v=5Sai6mUbD_w
 - Configure CLI
 - Install Ubuntu server using CLI
 - Connect with SSH
+- Other CLI Commands
+- Disable User Access Key
+- Delete User Access Key
 
 3- Windows Server [Windows.md](Windows.md)
 - Create Windows server
