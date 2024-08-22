@@ -1,7 +1,18 @@
 
 _**Day 6 - 17.08.2024 Saturday**_
 
-# Creating a new user steps:
+
+[Creating a new user steps:](#Creating-a-new-user-steps:)
+
+[Login with new user steps:](#Login-with-new-user-steps:)
+
+[MFA Activate steps:](#MFA-Activate-steps:)
+
+[Login with MFA](#Login-with-MFA)
+
+
+
+## Creating a new user steps:
 
 Login with **root** user -> AWS Console -> IAM
 
@@ -32,7 +43,7 @@ Return to uses list
 ![image](https://github.com/user-attachments/assets/abc1cc25-5ebe-44a3-ac4c-5715e92cd059)
 
 
-# Login with new user steps:
+## Login with new user steps:
 
 Amazon ID, username, password
 
@@ -51,7 +62,7 @@ Sign out
 ![image](https://github.com/user-attachments/assets/0913eeb8-295a-4237-87a7-cb83c1414f61)
 
 
-# MFA Activate steps:
+## MFA Activate steps:
 
 Login with **root** user -> AWS Console -> IAM -> Users
 
@@ -75,7 +86,7 @@ MFA enabled, aws account is more secure now
 ![image](https://github.com/user-attachments/assets/afa684ca-2b68-415e-a27a-51f26dbea089)
 
 
-# Login with MFA
+## Login with MFA
 
 ![image](https://github.com/user-attachments/assets/55302bd3-ed66-452a-9894-649efcd5d7cb)
 
