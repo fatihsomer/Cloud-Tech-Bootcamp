@@ -11,6 +11,11 @@ _**Day 6 - 17.08.2024 Saturday**_
 
 - [Connect with SSH](#Connect-with-SSH)
 
+- [Other CLI Commands](#Other-CLI-Commands)
+
+- [Disable User Access Key](#Disable-User-Access-Key)
+
+- [Delete User Access Key](#Delete-User-Access-Key)
 
 
 ## Download and Install CLI tool
@@ -87,7 +92,15 @@ Connect SSH using Bitvise app
 
 ![image](https://github.com/user-attachments/assets/6fd433b9-78cc-4753-a714-0db5a25e5c80)
 
+
 Open terminal
 
 ![image](https://github.com/user-attachments/assets/737041d6-24e0-4421-8991-34253222cee4)
+
+
+## Other CLI Commands
+
+## Disable User Access Key
+
+## Delete User Access Key
 
