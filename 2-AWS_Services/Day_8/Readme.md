@@ -1,4 +1,4 @@
-_**Day 8 - 22.08.2024 Tuesday**_
+_**Day 8 - 22.08.2024 Thursday**_
 
 _**Today's Lesson video :**_
 
