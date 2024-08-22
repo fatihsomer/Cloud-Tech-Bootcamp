@@ -1,6 +1,10 @@
 _**Day 6 - 17.08.2024 Saturday**_
 
-# Create Windows server
+- [Create Windows server](#Create-Windows-server)
+- [Connect to Server](#Connect-to-Server)
+
+
+## Create Windows server
 
 EC2 -> Launch Instances
 
@@ -23,7 +27,7 @@ Launch Instance
 ![image](https://github.com/user-attachments/assets/3a4d3c3b-ffb2-4076-a160-40ee1fbe182b)
 
 
-# Connect to Server
+## Connect to Server
 
 Connect
 
