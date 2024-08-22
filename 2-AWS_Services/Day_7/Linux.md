@@ -2,13 +2,13 @@ _**Day 7 - 20.08.2024 Tuesday**_
 
 Connect to Ubuntu via ssh and open terminal
 
-[vi text editor](#vi-text-editor)
+- [vi text editor](#vi-text-editor)
 
-[File backup, edit and display](#File-backup-edit-and-display)
+- [File backup, edit and display](#File-backup-edit-and-display)
 
-[nano text editor](#nano-text-editor)
+- [nano text editor](#nano-text-editor)
 
-[apt command](#apt-command)
+- [apt command](#apt-command)
 
 
 ## vi text editor
