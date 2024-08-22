@@ -4,7 +4,7 @@ Connect to Ubuntu via ssh and open terminal
 
 [vi text editor](#vi-text-editor)
 
-[File backup, edit and display](#File-backup,-edit-and-display)
+[File backup, edit and display](#File-backup-edit-and-display)
 
 [nano text editor](#nano-text-editor)
 
