@@ -8,7 +8,7 @@ Connect to Ubuntu via ssh and open terminal
 
 [nano text editor](#nano-text-editor)
 
-[apt advanced package tool command](apt-advanced-package-tool-command)
+[apt command](apt-command)
 
 
 ## vi text editor
@@ -75,7 +75,7 @@ CTRL + u → Search
 We opened a new terminal and ran the vi editor
 
 
-## apt (advanced package tool) command
+## apt command
 
 After creating the Linux operating system, we must first perform update and upgrade!!!
 
