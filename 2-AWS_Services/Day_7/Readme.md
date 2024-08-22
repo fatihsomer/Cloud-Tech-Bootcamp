@@ -13,4 +13,5 @@ _**Today's Lesson video :**_
 - IAM new user to access S3
 - File transfer via CLI
 - File transfer via S3 Browser
-- Public access and static web hosting
+- Public access
+- static website hosting
