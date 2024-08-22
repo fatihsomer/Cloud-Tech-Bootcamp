@@ -1,13 +1,26 @@
 _**Day 6 - 17.08.2024 Saturday**_
 
-# Download and Install CLI tool
+
+[#Download and Install CLI tool](#Download-and-Install-CLI-tool)
+
+[#Create access key for CLI](#Create-access-key-for-CLI)
+
+[#Configure CLI](#Configure-CLI)
+
+[#Install Ubuntu server using CLI](#Install-Ubuntu-server-using-CLI)
+
+[#Connect with SSH](#Connect-with-SSH)
+
+
+
+## Download and Install CLI tool
 
 [https://aws.amazon.com/tr/cli/](https://aws.amazon.com/cli/)
 
 ![image](https://github.com/user-attachments/assets/4d6c3a2b-e6b9-4ac9-9265-0d6d707eb08d)
 
 
-# Create access key for CLI
+## Create access key for CLI
 
 ![image](https://github.com/user-attachments/assets/54b44643-39fa-4eab-a4f4-3aeab800b233)
 
@@ -24,7 +37,7 @@ bootcampkey
 ![image](https://github.com/user-attachments/assets/b3ff330a-3c7a-4363-a79b-ae545eb3238d)
 
 
-# Configure CLI
+## Configure CLI
 
 Copy Region Information (**eu-central-1** - will be used as **region**)
 
@@ -36,7 +49,7 @@ Windows + R (run) -> cmd (command prompt) -> aws configure
 ![image](https://github.com/user-attachments/assets/278a4291-41da-4ea3-bef1-78c09c6a99f6)
 
 
-# Install Ubuntu server using CLI
+## Install Ubuntu server using CLI
 
 EC2 -> Launch Instance -> select Ubuntu -> copy AMI ID (**ami-0e872aee57663ae2d** - will be used as **image-id**)
 
@@ -64,7 +77,7 @@ We can see the newly created ubuntu server in EC2 -> Instances section
 
 ![image](https://github.com/user-attachments/assets/621e0d60-4144-44dc-98f6-2926a511d6cb)
 
-# Connect with SSH
+## Connect with SSH
 
 EC2 -> Instance -> Security tab and check SSH port is available for Inbound rules
 
