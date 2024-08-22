@@ -9,7 +9,7 @@ _**Day 6 - 17.08.2024 Saturday**_
 
 [Install Ubuntu server using CLI](#Install-Ubuntu-server-using-CLI)
 
-[#Connect with SSH](#Connect-with-SSH)
+[Connect with SSH](#Connect-with-SSH)
 
 
 
