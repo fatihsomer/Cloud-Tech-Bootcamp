@@ -2,6 +2,8 @@ _**Day 8 - 22.08.2024 Thursday**_
 
 _**Today's Lesson video :**_
 
+https://www.youtube.com/watch?v=Dqe7F44p56o&t=139s
+
 1- S3 [S3.md](S3.md)
 - File version
 - Task
