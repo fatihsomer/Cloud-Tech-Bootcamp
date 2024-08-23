@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=Dqe7F44p56o&t=139s
 
 1- S3 [S3.md](S3.md)
 - File version
+- Grant temporary access to a file
 - Task
 
 2- RDS [RDS.md](RDS.md)
