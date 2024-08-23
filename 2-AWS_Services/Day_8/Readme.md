@@ -9,6 +9,9 @@ https://www.youtube.com/watch?v=Dqe7F44p56o&t=139s
 - Grant temporary access to a file
 - Viewing file metadata
 - Task
+  -  Installing CLI to Ubuntu
+  -  Copying file from Ubuntu to S3 using CLI
+
 
 2- RDS [RDS.md](RDS.md)
 - Create Database (Standart)
