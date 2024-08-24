@@ -1,6 +1,6 @@
-
 _**Day 6 - 17.08.2024 Saturday**_
 
+<br>
 
 - [Creating a new user steps](#Creating-a-new-user-steps)
 
@@ -10,85 +10,123 @@ _**Day 6 - 17.08.2024 Saturday**_
 
 - [Login with MFA](#Login-with-MFA)
 
-
+<br>
 
 ## Creating a new user steps
+
+<br>
 
 Login with **root** user -> AWS Console -> IAM
 
 ![image](https://github.com/user-attachments/assets/a9832119-ade7-49ae-8612-fc0ae03a6f00)
 
+<br>
+
 Users -> Create User
 
 ![image](https://github.com/user-attachments/assets/350db5d5-ef95-4b4f-bbab-b8524097d2c4)
+
+<br>
 
 bootcamp
 
 ![image](https://github.com/user-attachments/assets/bce8154d-de88-4bd1-8302-ed6c7ac6acb7)
 
+<br>
+
 ec2full, rdsfull, s3full
 
 ![image](https://github.com/user-attachments/assets/4506eee8-e7b3-4656-b604-615031ff7e8b)
+
+<br>
 
 Create user
 
 ![image](https://github.com/user-attachments/assets/47e34edb-aa31-4b73-b3d8-8484d55234c4)
 
+<br>
+
 User created (Scribbled part is your Amazon ID)
 
 ![image](https://github.com/user-attachments/assets/80b55efa-30b3-40d9-8856-0e264aee45d2)
+
+<br>
 
 Return to uses list
 
 ![image](https://github.com/user-attachments/assets/abc1cc25-5ebe-44a3-ac4c-5715e92cd059)
 
+<br>
 
 ## Login with new user steps
+
+<br>
 
 Amazon ID, username, password
 
 ![image](https://github.com/user-attachments/assets/0639bb37-024a-46f0-b625-8675182bb188)
 
+<br>
+
 Change password
 
 ![image](https://github.com/user-attachments/assets/547eff17-6f5c-4a16-bef5-95200cd703ba)
+
+<br>
 
 AWS Console
 
 ![image](https://github.com/user-attachments/assets/27d24e66-bf85-4dec-b0d3-1696101e2c30)
 
+<br>
+
 Sign out
 
 ![image](https://github.com/user-attachments/assets/0913eeb8-295a-4237-87a7-cb83c1414f61)
 
+<br>
 
 ## MFA Activate steps
+
+<br>
 
 Login with **root** user -> AWS Console -> IAM -> Users
 
 ![image](https://github.com/user-attachments/assets/18057017-f1af-4993-b236-cb8e8d787e12)
 
+<br>
+
 Select User -> Enable MFA
 
 ![image](https://github.com/user-attachments/assets/9f726928-f120-49c8-9a81-a7729fe52d2a)
 
+<br>
 
 bootcamp, select Authenticator App
 
 ![image](https://github.com/user-attachments/assets/145b6fe5-34c3-4368-b7a6-07a55c491915)
 
+<br>
+
 click to Show QR code, scan QR code with Google Authenticator App then enter MFA Code 1, wait and enter MFA Code 2, click Add MFA
 
 ![image](https://github.com/user-attachments/assets/65f53fce-fd32-46f4-a61e-86e2c83284ee)
+
+<br>
 
 MFA enabled, aws account is more secure now
 
 ![image](https://github.com/user-attachments/assets/afa684ca-2b68-415e-a27a-51f26dbea089)
 
+<br>
 
 ## Login with MFA
 
+<br>
+
 ![image](https://github.com/user-attachments/assets/55302bd3-ed66-452a-9894-649efcd5d7cb)
+
+<br>
 
 Check your Google Authenticator App and Enter your MFA code then log in securely
 
