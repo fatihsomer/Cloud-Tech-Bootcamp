@@ -228,3 +228,20 @@ show databases;
 ## Stop and Delete
 
 <br>
+
+First, stop the database and wait 2-3 days, if there is no problem then it can be deleted
+
+![image](https://github.com/user-attachments/assets/5a6a36d3-3aeb-48a2-9632-030674fb57d2)
+
+Optionally can first take a db snapshot and then stop it
+
+![image](https://github.com/user-attachments/assets/d1b77a40-7a03-4d2c-bcd5-f45457a309bf)
+
+![image](https://github.com/user-attachments/assets/71d4ecd0-9d6b-4f16-8d1a-61972eea18b2)
+
+Delete database
+
+![image](https://github.com/user-attachments/assets/34b3e693-12d9-4d2e-8a2d-f07045884f49)
+
+![image](https://github.com/user-attachments/assets/f31fce46-f2bb-49e8-92a1-83cd622549ae)
+
