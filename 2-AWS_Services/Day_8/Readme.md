@@ -1,8 +1,12 @@
 _**Day 8 - 22.08.2024 Thursday**_
 
+<br>
+
 _**Today's Lesson video :**_
 
 https://www.youtube.com/watch?v=Dqe7F44p56o&t=139s
+
+<br>
 
 1- S3 [S3.md](S3.md)
 - File version
@@ -12,6 +16,7 @@ https://www.youtube.com/watch?v=Dqe7F44p56o&t=139s
   -  Installing CLI to Ubuntu
   -  Copying file from Ubuntu to S3 using CLI
 
+<br>
 
 2- RDS [RDS.md](RDS.md)
 - Create Database (Standart)
