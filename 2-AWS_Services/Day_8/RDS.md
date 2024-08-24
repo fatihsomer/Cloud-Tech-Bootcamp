@@ -191,6 +191,19 @@ Connected to MySQL
 
 <br>
 
+Actions → Set up EC2 connection
+
+![image](https://github.com/user-attachments/assets/44f7cbd4-2c99-42c2-af68-b4a5f4b93f52)
+
+![image](https://github.com/user-attachments/assets/0e07ddc1-aaf5-440c-a5ff-a4088156f73b)
+
+![image](https://github.com/user-attachments/assets/1b7c0f9f-1abe-484c-96c6-c8796fcb6d80)
+
+![image](https://github.com/user-attachments/assets/14a0cfa2-ed2a-478e-806c-6179a94e4db0)
+
+
+<br>
+
 ## Stop and Delete
 
 <br>
