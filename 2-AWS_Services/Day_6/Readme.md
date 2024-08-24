@@ -37,3 +37,8 @@ https://www.youtube.com/watch?v=5Sai6mUbD_w
 4- AMI (Amazon Machine Image) [AMI.d](AMI.md)
 - Create image
 - Share image
+
+<br>
+
+5- Storage 
+- Increase Disk Capacity
