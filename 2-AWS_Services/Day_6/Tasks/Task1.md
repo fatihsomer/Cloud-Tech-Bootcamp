@@ -1,10 +1,12 @@
 _**Task #1 - 18.08.2024 Sunday**_
 
+<br>
 
 ✅ Login to AWS console with **root** account
 
 ![image](https://github.com/user-attachments/assets/815b9140-fc08-4893-86d1-5cb4b226aac5)
 
+<br>
 
 ✅ Create a new user name sevgi using **IAM** service
 
@@ -14,6 +16,7 @@ _**Task #1 - 18.08.2024 Sunday**_
 
 ![3_user_sevgi](https://github.com/user-attachments/assets/6f603930-9363-48a1-9b70-a15caf8c3498)
 
+<br>
 
 ✅ Create access and secret key for **sevgi** user
 
@@ -21,11 +24,13 @@ _**Task #1 - 18.08.2024 Sunday**_
 
 ![image](https://github.com/user-attachments/assets/12bdb3d0-c195-4843-bd86-7db28b83ddfe)
 
+<br>
 
 ✅ Using the AWS CLI tool installed on your computer, define the **sevgi** user keys and region information with the "aws configure" command
 
 ![image](https://github.com/user-attachments/assets/c70d89b5-b78a-4c97-8693-9da7d865a485)
 
+<br>
 
 ✅ Install t2.micro ubuntu server via AWS CLI (ami-id + key pair + security grup id + region)
 
@@ -33,6 +38,7 @@ _**Task #1 - 18.08.2024 Sunday**_
 
 ![image](https://github.com/user-attachments/assets/fe04217b-b829-4842-b423-3950f31c3b9c)
 
+<br>
 
 ✅ Connect to the ubuntu server that you set up with the Bitvise ssh client on your computer using the ssh (22) protocol
 
