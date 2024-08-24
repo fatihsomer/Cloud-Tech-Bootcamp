@@ -201,6 +201,27 @@ Actions → Set up EC2 connection
 
 ![image](https://github.com/user-attachments/assets/14a0cfa2-ed2a-478e-806c-6179a94e4db0)
 
+<br>
+
+Connect to Ubuntu terminal via ssh
+
+sudo apt install mysql-client-core-8.0
+
+![image](https://github.com/user-attachments/assets/5482d096-886b-4fac-aab5-8527721680e9)
+
+![image](https://github.com/user-attachments/assets/a93a3ac7-1531-45fc-9f6b-e54d6f2d2e07)
+
+<br>
+
+Connected to MySQL
+
+mysql -h database-1.**hotname**.eu-central-1.rds.amazonaws.com -u admin2 -p
+
+List databases
+
+show databases;
+
+![image](https://github.com/user-attachments/assets/7aeb8710-1f22-4744-9e91-99e8cf9fc85d)
 
 <br>
 
