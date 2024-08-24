@@ -143,8 +143,6 @@ https://dev.mysql.com/downloads/workbench/
 
 ![image](https://github.com/user-attachments/assets/abe87ee2-82d1-4ee7-b450-9d3ddc4f55fe)
 
-![image](https://github.com/user-attachments/assets/bd967ccb-aeef-46e1-80de-db6dcc43092d)
-
 <br>
 
 Modify database settings
@@ -162,6 +160,32 @@ Public Access authorization granted
 Apply immediately
 
 ![image](https://github.com/user-attachments/assets/61f6962d-3776-43d9-8c52-53f10311c447)
+
+<br>
+
+EC2 → Security Group → Default security group authorized for mysql port (3306) for 0.0.0.0/0
+
+![image](https://github.com/user-attachments/assets/ee616790-824d-4176-ad95-f7e9c290caf7)
+
+<br>
+
+MySQL Workbench
+
+![image](https://github.com/user-attachments/assets/bd967ccb-aeef-46e1-80de-db6dcc43092d)
+
+<br>
+
+Test Connection is successful
+
+![image](https://github.com/user-attachments/assets/a128e00e-ed28-4280-ad0c-cf5ccda300f6)
+
+![image](https://github.com/user-attachments/assets/63810362-32c8-4c04-b7e0-dacd0a5aa487)
+
+<br>
+
+Connected to MySQL
+
+![image](https://github.com/user-attachments/assets/a1d77151-5398-43f0-a776-8f3b5d76bc35)
 
 <br>
 
