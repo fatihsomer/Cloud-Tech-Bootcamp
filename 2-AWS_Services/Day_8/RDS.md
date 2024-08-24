@@ -12,6 +12,7 @@ _**Day 8 - 22.08.2024 Thursday**_
 
 - [Stop and Delete](#Stop-and-Delete)
 
+<br>
 
 ## Create Database (Standart)
 
@@ -23,6 +24,7 @@ RDS → Create Database → MySQL → Free Tier
 
 ![image](https://github.com/user-attachments/assets/f960c1cb-4dea-4c7f-859f-eba41d20b809)
 
+<br>
 
 Production price
 
@@ -30,6 +32,7 @@ Production price
 
 ![image](https://github.com/user-attachments/assets/ffd8e4dd-52da-448e-bc5a-c6995123eacb)
 
+<br>
 
 Dev/Test price
 
@@ -37,6 +40,7 @@ Dev/Test price
 
 ![image](https://github.com/user-attachments/assets/d316d6bc-31be-45fd-a914-aed18aff1499)
 
+<br>
 
 Free Tier price
 
@@ -44,14 +48,19 @@ Free Tier price
 
 ![image](https://github.com/user-attachments/assets/48f4a0e1-1d10-42c9-a4bc-bcd575af075d)
 
+<br>
 
 DB name, username, password
 
 ![image](https://github.com/user-attachments/assets/87d163ad-75bb-4ddb-9bd1-5d83eb80082d)
 
+<br>
+
 t3.micro
 
 ![image](https://github.com/user-attachments/assets/538eb928-92d0-4a44-87fc-ea0fe4d1ee62)
+
+<br>
 
 Storage
 
@@ -65,11 +74,13 @@ Connectivity
 
 ![image](https://github.com/user-attachments/assets/37af925e-239f-4a23-8c2c-bb96434d9635)
 
+<br>
 
 DB Config
 
 ![image](https://github.com/user-attachments/assets/a8027fe8-98c8-4369-a66e-0bc8ea2a5be0)
 
+<br>
 
 Logs settings enabled
 
@@ -78,6 +89,8 @@ Logs settings enabled
 ![image](https://github.com/user-attachments/assets/768dd4d3-2ef6-4b47-b0ef-3c354c0ab2d1)
 
 ![image](https://github.com/user-attachments/assets/fe6b9dc5-ba27-4b0f-8722-56c7a302afb7)
+
+<br>
 
 Click View connection details and save connection infomation
 
@@ -89,6 +102,7 @@ Master password : ...
 
 Endpoint : database-1.**hostname**.eu-central-1.rds.amazonaws.com
 
+<br>
 
 When DB Type Production is Selected then AZ (Availability Zone) can also be selected.
 
@@ -96,6 +110,7 @@ Even if there is a problem in the location where our database is located, it can
 
 ![image](https://github.com/user-attachments/assets/657899ad-5dc2-4e67-b351-2b4e31fbc3fc)
 
+<br>
 
 
 ## Create Database (Easy)
