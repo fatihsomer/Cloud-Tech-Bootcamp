@@ -1,5 +1,7 @@
 _**Day 7 - 20.08.2024 Tuesday**_
 
+<br>
+
 Connect to Ubuntu via ssh and open terminal
 
 - [vi text editor](#vi-text-editor)
@@ -10,8 +12,11 @@ Connect to Ubuntu via ssh and open terminal
 
 - [apt command](#apt-command)
 
+<br>
 
 ## vi text editor
+
+<br>
 
 vi august.html → file is opened using vi text editor
 
@@ -29,7 +34,11 @@ ESC + O → inserts a blank line below
 
 ESC + / → search
 
+<br>
+
 ## File backup, edit and display
+
+<br>
 
 sudo su → super user mode
 
@@ -45,6 +54,8 @@ cp .profile .profile_backup → copy file for backup
 
 vi .profile → file is opened using vi text editor
 
+<br>
+
 #→ comment line
 
 We pressed 3 times ESC + O and ESC + :x then exit
@@ -57,8 +68,11 @@ clear → clear the screen
 
 cat /home/ubuntu/august.html → displays the file content
 
+<br>
 
 ## nano text editor
+
+<br>
 
 nano september.html → file is opened using nano text editor
 
@@ -74,8 +88,11 @@ CTRL + u → Search
 
 We opened a new terminal and ran the vi editor
 
+<br>
 
 ## apt command
+
+<br>
 
 After creating the Linux operating system, we must first perform update and upgrade!!!
 
@@ -92,6 +109,3 @@ sudo apt install nmap → installs nmap package
 sudo apt remove → removes a package
 
 sudo apt remove nmap → removes nmap package
-
-
-
