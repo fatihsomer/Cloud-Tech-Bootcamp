@@ -1,4 +1,4 @@
-_**Day 8 - 22.08.2024 Thursday**_
+_**Day 9 - 24.08.2024 Saturday**_
 
 <br>
 
