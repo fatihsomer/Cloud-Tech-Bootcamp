@@ -137,6 +137,34 @@ Even if there is a problem in the location where our database is located, it can
 
 <br>
 
+To connect to MySQL you need to download and install MySQL Workbench (Free)
+
+https://dev.mysql.com/downloads/workbench/
+
+![image](https://github.com/user-attachments/assets/abe87ee2-82d1-4ee7-b450-9d3ddc4f55fe)
+
+![image](https://github.com/user-attachments/assets/bd967ccb-aeef-46e1-80de-db6dcc43092d)
+
+<br>
+
+Modify database settings
+
+![image](https://github.com/user-attachments/assets/88b84406-502d-49d8-875f-29afcc71d27e)
+
+<br>
+
+Public Access authorization granted
+
+![image](https://github.com/user-attachments/assets/60362592-6c38-47b2-a5fc-89ac6a39427d)
+
+<br>
+
+Apply immediately
+
+![image](https://github.com/user-attachments/assets/61f6962d-3776-43d9-8c52-53f10311c447)
+
+<br>
+
 - ### Connect to Mysql from Ubuntu (EC2)
 
 <br>
