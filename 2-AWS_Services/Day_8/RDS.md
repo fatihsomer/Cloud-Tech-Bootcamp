@@ -239,6 +239,8 @@ Optionally can first take a db snapshot and then stop it
 
 ![image](https://github.com/user-attachments/assets/71d4ecd0-9d6b-4f16-8d1a-61972eea18b2)
 
+<br>
+
 Delete database
 
 ![image](https://github.com/user-attachments/assets/34b3e693-12d9-4d2e-8a2d-f07045884f49)
