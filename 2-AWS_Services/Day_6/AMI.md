@@ -4,9 +4,13 @@ _**Day 6 - 17.08.2024 Saturday**_
 
 - [Create image](#Create-image)
 
+- [Share image](#Share-image)
+
 <br>
 
 ## Create image
+
+<br>
 
 EC2 → Instances → Actions → Image and templates → Create image
 
@@ -16,4 +20,14 @@ EC2 → Instances → Actions → Image and templates → Create image
 
 ![image](https://github.com/user-attachments/assets/aaa482db-7447-4501-b8cc-4d501e8656aa)
 
+This created image can be used to create a new instance
+
+![image](https://github.com/user-attachments/assets/22b77e87-a84e-4709-b3b6-b0d9db79f45d)
+
 <br>
+
+## Share image
+
+Permissions → Shared account → Add account ID
+
+![image](https://github.com/user-attachments/assets/f3ba7e97-f9c3-47db-8354-492096641211)
