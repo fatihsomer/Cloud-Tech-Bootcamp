@@ -179,8 +179,6 @@ Test Connection is successful
 
 ![image](https://github.com/user-attachments/assets/a128e00e-ed28-4280-ad0c-cf5ccda300f6)
 
-![image](https://github.com/user-attachments/assets/63810362-32c8-4c04-b7e0-dacd0a5aa487)
-
 <br>
 
 Connected to MySQL
