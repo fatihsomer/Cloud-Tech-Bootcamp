@@ -87,7 +87,14 @@ Master username : admin2
 
 Master password : ...
 
-Endpoint : xxx.eu-central-1.rds.amazonaws.com
+Endpoint : database-1.**hostname**.eu-central-1.rds.amazonaws.com
+
+
+When DB Type Production is Selected then AZ (Availability Zone) can also be selected.
+
+Even if there is a problem in the location where our database is located, it can continue to work in another location.
+
+![image](https://github.com/user-attachments/assets/657899ad-5dc2-4e67-b351-2b4e31fbc3fc)
 
 
 
