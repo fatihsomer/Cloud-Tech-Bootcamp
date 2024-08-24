@@ -1,8 +1,12 @@
 _**Day 6 - 17.08.2024 Saturday**_
 
+<br>
+
 **_Today's Lesson video :_**
 
 https://www.youtube.com/watch?v=5Sai6mUbD_w
+
+<br>
 
 1- IAM (Identity Access Manager)  [IAM.md](IAM.md)
 - Creating a new user
@@ -10,6 +14,7 @@ https://www.youtube.com/watch?v=5Sai6mUbD_w
 - MFA Activate
 - Login with MFA
 
+<br>
 
 2- CLI (Command Line Interface)  [CLI.md](CLI.md)
 - Download and Install CLI tool
@@ -20,6 +25,8 @@ https://www.youtube.com/watch?v=5Sai6mUbD_w
 - Other CLI Commands
 - Disable User Access Key
 - Delete User Access Key
+
+<br>
 
 3- Windows Server [Windows.md](Windows.md)
 - Create Windows server
