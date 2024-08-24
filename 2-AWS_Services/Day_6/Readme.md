@@ -31,3 +31,8 @@ https://www.youtube.com/watch?v=5Sai6mUbD_w
 3- Windows Server [Windows.md](Windows.md)
 - Create Windows server
 - Connect to Server
+
+<br>
+
+4- AMI (Amazon Machine Image) [AMI.d](AMI.md)
+- Create image
