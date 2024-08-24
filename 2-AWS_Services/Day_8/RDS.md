@@ -121,6 +121,14 @@ Even if there is a problem in the location where our database is located, it can
 
 <br>
 
+![image](https://github.com/user-attachments/assets/06271072-9772-43b8-8e4a-f8e04eb18a61)
+
+![image](https://github.com/user-attachments/assets/b46ef7a7-c2c7-448e-a58c-e8996d2cec2c)
+
+![image](https://github.com/user-attachments/assets/7c5741c6-35ad-4ae4-93e5-866602095657)
+
+<br>
+
 ## Connect to Database
 
 <br>
