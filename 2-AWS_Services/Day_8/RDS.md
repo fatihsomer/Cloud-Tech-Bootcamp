@@ -83,7 +83,7 @@ Click View connection details and save connection infomation
 
 ![image](https://github.com/user-attachments/assets/952dc525-34cf-464c-be24-fde2fab55a09)
 
-Master username : ...
+Master username : admin2
 
 Master password : ...
 
