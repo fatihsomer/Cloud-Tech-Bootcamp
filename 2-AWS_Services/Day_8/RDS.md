@@ -1,5 +1,7 @@
 _**Day 8 - 22.08.2024 Thursday**_
 
+<br>
+
 - [Create Database (Standart)](#Create-Database-Standart)
 
 - [Create Database (Easy)](#Create-Database-Easy)
@@ -15,6 +17,8 @@ _**Day 8 - 22.08.2024 Thursday**_
 <br>
 
 ## Create Database (Standart)
+
+<br>
 
 RDS → Create Database → MySQL → Free Tier
 
@@ -115,16 +119,20 @@ Even if there is a problem in the location where our database is located, it can
 
 ## Create Database (Easy)
 
-
+<br>
 
 ## Connect to Database
 
+<br>
 
 - ### Connect to Mysql from our Machine
 
+<br>
 
 - ### Connect to Mysql from Ubuntu (EC2)
 
+<br>
 
 ## Stop and Delete
 
+<br>
