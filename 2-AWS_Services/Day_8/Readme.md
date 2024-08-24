@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=Dqe7F44p56o&t=139s
 1- S3 [S3.md](S3.md)
 - File version
 - Grant temporary access to a file
-- Viewing file metadata
+- Viewing image file metadata
 - Task
   -  Installing CLI to Ubuntu
   -  Copying file from Ubuntu to S3 using CLI
