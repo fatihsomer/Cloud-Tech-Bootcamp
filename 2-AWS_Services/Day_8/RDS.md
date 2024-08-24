@@ -181,7 +181,7 @@ Test Connection is successful
 
 <br>
 
-Connected to MySQL
+Connect to MySQL
 
 ![image](https://github.com/user-attachments/assets/a1d77151-5398-43f0-a776-8f3b5d76bc35)
 
@@ -213,7 +213,7 @@ sudo apt install mysql-client-core-8.0
 
 <br>
 
-Connected to MySQL
+Connect to MySQL
 
 mysql -h database-1.**hotname**.eu-central-1.rds.amazonaws.com -u admin2 -p
 
