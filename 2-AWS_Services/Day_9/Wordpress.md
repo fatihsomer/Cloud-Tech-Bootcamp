@@ -228,6 +228,22 @@ server {
 
 <br>
 
+create symbolick link 
+
+sudo ln -s /etc/nginx/sites-available/wordpress /etc/nginx/sites-enabled/
+
+![image](https://github.com/user-attachments/assets/519bb7b9-8b7f-470b-8cbb-d98420c1a6be)
+
+<br>
+
+restart nginx service
+
+sudo systemctl restart nginx
+
+![image](https://github.com/user-attachments/assets/5763c95a-dd80-4514-923b-d2fcb51a4f35)
+
+<br>
+
 ## Ubuntu server firewall config
 
 <br>
