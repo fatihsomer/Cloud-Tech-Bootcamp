@@ -150,6 +150,16 @@ Explicit subnet associations
 
 <br>
 
+add default route for internet connection
+
+![image](https://github.com/user-attachments/assets/36130c81-d3bc-4cbf-8098-b29a69bda8f2)
+
+![image](https://github.com/user-attachments/assets/f63773ab-33ae-4d3d-bc7c-5d0a886a442c)
+
+![image](https://github.com/user-attachments/assets/f15765d8-8931-4a8c-83e0-0c57f907833f)
+
+<br>
+
 ## Subnet Auto Assign IP
 
 
