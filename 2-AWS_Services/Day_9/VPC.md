@@ -236,20 +236,32 @@ Connect to Ubuntu Server Terminal
 
 ## Firewall inbound rule
 
+<br>
+
+Select Security Group in the Security tab
+
+![image](https://github.com/user-attachments/assets/b581faa4-4476-4256-a0c0-cfb996e775b2)
 
 <br>
 
+Edit inbound rules
+
+![image](https://github.com/user-attachments/assets/e73ff256-fe33-442d-95e9-458e2aaf9736)
+
+HTTP port 80 added
+
+![image](https://github.com/user-attachments/assets/c821b979-e060-47ac-8f7f-d17337862a7b)
+
+![image](https://github.com/user-attachments/assets/a0f3fb99-faff-4c1e-98b3-76c9c8f907c9)
 
 
 ## Display IP web page
-
 
 <br>
 
 
 
 ## Delete VPC
-
 
 <br>
 
