@@ -291,8 +291,18 @@ Subnets → Actions → Delete subnet
 
 ![image](https://github.com/user-attachments/assets/a87ba504-3375-4719-9af8-2be4ae0e052a)
 
-<br>
+
 
 Internet gateways → Actions → Detach from VPC
 
 ![image](https://github.com/user-attachments/assets/4e6042a7-564c-48a6-ac09-0c8c04e8bbc3)
+
+![image](https://github.com/user-attachments/assets/42417ea1-d114-4127-8e5e-072e15113241)
+
+<br>
+
+Actions → Delete internet gateway
+
+![image](https://github.com/user-attachments/assets/d8167094-d9cb-415b-9817-baa91157c795)
+
+![image](https://github.com/user-attachments/assets/e9726f23-ea05-42a7-aa2c-c4233b8b7119)
