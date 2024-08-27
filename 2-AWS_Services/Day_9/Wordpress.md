@@ -250,7 +250,7 @@ sudo systemctl restart nginx
 
 Ubuntu server security tab inbound rule http port 80 added
 
-![image](https://github.com/user-attachments/assets/2813742f-4658-4f62-b77e-6cd6696a41e3)
+![image](https://github.com/user-attachments/assets/daf1d228-a369-4d5e-bfb2-7f10b213343f)
 
 ![image](https://github.com/user-attachments/assets/9b6703e9-6a5a-4a9e-a94f-b569bd1b138b)
 
