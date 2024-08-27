@@ -199,7 +199,7 @@ sudo nano /etc/nginx/sites-available/wordpress
 
 ![image](https://github.com/user-attachments/assets/fc99885f-0749-4136-a00d-bc7949682d71)
 
-```json
+```
 
 server {  
     listen 80;  
