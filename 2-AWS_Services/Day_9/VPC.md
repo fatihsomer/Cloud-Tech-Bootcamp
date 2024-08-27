@@ -166,6 +166,8 @@ add default route for internet connection
 
 Edit subnet settings → Auto Assign IP settings → Enable
 
+Set for 1a and 1b subnets
+
 ![image](https://github.com/user-attachments/assets/d9484210-7e27-4adc-a39b-ce7d82c2d8d7)
 
 ![image](https://github.com/user-attachments/assets/7af392a8-156a-4b39-9409-2e5a891eda2c)
@@ -174,17 +176,63 @@ Edit subnet settings → Auto Assign IP settings → Enable
 
 ## Create EC2 instance
 
+<br>
+
+EC2 Ubuntu server installation
+
+new instance on demo2vpc → demo3vpc-ubuntu
+
+Edit Network Settings
+
+choose new vpc
+
+choose new subnet
+
+Auto assign public IP → Enable
+
+![image](https://github.com/user-attachments/assets/ecfa0a44-cffd-42e7-b18d-e5a38ab06ac7)
 
 <br>
 
+Advanced Details → go to bottom and paste bash script into text area
 
+![image](https://github.com/user-attachments/assets/320b7ad7-eef3-4e28-9e9b-8a283df7609f)
+
+```bash
+
+#!/bin/bash
+
+yes | sudo apt update
+
+yes | sudo apt install nginx
+
+echo "<h2>Yeni VPC Server Bilgilerim</h2><p><strong>Hostname:</strong> $(hostname)</p><p><strong>IP Address:</strong> $(hostname -I | cut -d" " -f1)</p>" > /var/www/html/index.html
+
+sudo systemctl restart nginx
+
+```
+
+Launch instance
+
+![image](https://github.com/user-attachments/assets/858a916d-0ff1-4d1f-aa63-5574620f4530)
+
+<br>
+
+Connect to Ubuntu Server Terminal
+
+![image](https://github.com/user-attachments/assets/97dd75ad-8834-4ec3-a50b-b0bfe0a199aa)
+
+![image](https://github.com/user-attachments/assets/66335293-defa-47b4-8e29-66046b73b588)
+
+<br>
 
 ## Ping google
 
-
 <br>
 
+![image](https://github.com/user-attachments/assets/87c17e19-bd3c-48a8-8e19-ba3734b01658)
 
+<br>
 
 ## Firewall inbound rule
 
