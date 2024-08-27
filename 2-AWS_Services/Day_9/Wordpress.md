@@ -23,8 +23,11 @@ _**Day 9 - 24.08.2024 Saturday**_
 <br>
 
 EC2 Ubuntu server installation
+
 wordpressweb-1
+
 Free tier t2.micro
+
 Launch instance
 
 
