@@ -273,6 +273,10 @@ Open IP address in the web browser
 
 Stop and Teminate (Delete) EC2 instances
 
+![image](https://github.com/user-attachments/assets/a6313d2c-2c7b-4dd7-9273-c38a96aad87a)
+
+<br>
+
 Route tables → Subnet associations → Edit subnet associations
 
 ![image](https://github.com/user-attachments/assets/b578b719-9023-49e7-8504-69d5a3aa72fd)
