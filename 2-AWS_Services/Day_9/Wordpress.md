@@ -35,7 +35,7 @@ Launch instance
 
 <br>
 
-Connect to Ubuntu Server terminal
+Connect to Ubuntu Server Terminal
 
 Update ubuntu server
 
@@ -95,7 +95,7 @@ ls
 
 <br>
 
-Move wordpress folder into nginx webserver
+Move wordpress folder into nginx web server
 
 sudo mv wordpress /var/www/html/  or  sudo rsync -avP wordpress/ /var/www/html/
 
@@ -133,7 +133,7 @@ ls -la
 
 <br>
 
-php file opened with nano editor
+php file is opened with nano editor
 
 sudo nano wp-config.php
 
@@ -151,9 +151,16 @@ Database config is here
 
 
 
+
 ## Ubuntu server firewall config
 
 <br>
+
+Giving the Ubuntu server permission to connect to the database
+
+RDS → Databases → Actions → Set up EC2 connection
+
+![image](https://github.com/user-attachments/assets/26516a42-041a-4b38-b8b6-5d0dfc1cbed4)
 
 
 
