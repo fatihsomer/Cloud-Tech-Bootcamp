@@ -162,10 +162,15 @@ add default route for internet connection
 
 ## Subnet Auto Assign IP
 
-
 <br>
 
+Edit subnet settings → Auto Assign IP settings → Enable
 
+![image](https://github.com/user-attachments/assets/d9484210-7e27-4adc-a39b-ce7d82c2d8d7)
+
+![image](https://github.com/user-attachments/assets/7af392a8-156a-4b39-9409-2e5a891eda2c)
+
+<br>
 
 ## Create EC2 instance
 
