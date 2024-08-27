@@ -162,6 +162,34 @@ RDS → Databases → Actions → Set up EC2 connection
 
 ![image](https://github.com/user-attachments/assets/26516a42-041a-4b38-b8b6-5d0dfc1cbed4)
 
+![image](https://github.com/user-attachments/assets/c853f011-8218-4ad3-822e-52ef35954379)
+
+![image](https://github.com/user-attachments/assets/1fe7d0b8-1de3-4a1b-972f-d5550b82c2e9)
+
+<br>
+
+View Details
+
+![image](https://github.com/user-attachments/assets/ee10a677-203f-4dea-a2d0-842f746ba32b)
+
+![image](https://github.com/user-attachments/assets/2c446296-e48e-4b32-a961-28676099c58f)
+
+<br>
+
+Database configuration
+
+![image](https://github.com/user-attachments/assets/a8843bf6-af28-414c-ba64-6682e422a4f7)
+
+<br>
+
+wordpress database config done
+
+sudo nano wp-config.php
+
+![image](https://github.com/user-attachments/assets/be2aa4dd-fbd9-492a-a3f7-e45a571f1342)
+
+<br>
+
 
 
 ## Wordpress web installation
