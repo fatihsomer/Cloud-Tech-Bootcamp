@@ -149,13 +149,6 @@ Database config is here
 
 <br>
 
-
-
-
-## Ubuntu server firewall config
-
-<br>
-
 Giving the Ubuntu server permission to connect to the database
 
 RDS → Databases → Actions → Set up EC2 connection
@@ -190,7 +183,62 @@ sudo nano wp-config.php
 
 <br>
 
+folder owner updated and permission gave
 
+sudo chown -R www-data:www-data /var/www/html/
+
+sudo chmod -R 755 /var/www/html/
+
+![image](https://github.com/user-attachments/assets/acba7687-e510-46d3-a81d-008758840a56)
+
+<br>
+
+wordpress file is created using nano text editor
+
+sudo nano /etc/nginx/sites-available/wordpress
+
+![image](https://github.com/user-attachments/assets/fc99885f-0749-4136-a00d-bc7949682d71)
+
+```json
+
+server {  
+    listen 80;  
+    server_name your_domain_or_IP; # Replace this with your own domain name or IP address
+
+    root /var/www/html;  
+    index index.php index.html index.htm;  
+
+    location / {  
+        try_files $uri $uri/ /index.php?$args;  
+    }  
+
+    location ~ \.php$ {  
+        include snippets/fastcgi-php.conf;  
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock; # Check PHP version
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;  
+        include fastcgi_params;  
+    }  
+
+    location ~ /\.ht {  
+        deny all;  
+    }  
+}
+
+```
+
+<br>
+
+## Ubuntu server firewall config
+
+<br>
+
+Ubuntu server security tab inbound rule http port 80 added
+
+![image](https://github.com/user-attachments/assets/2813742f-4658-4f62-b77e-6cd6696a41e3)
+
+![image](https://github.com/user-attachments/assets/9b6703e9-6a5a-4a9e-a94f-b569bd1b138b)
+
+<br>
 
 ## Wordpress web installation
 
