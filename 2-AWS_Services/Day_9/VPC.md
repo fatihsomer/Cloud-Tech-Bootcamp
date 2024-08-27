@@ -30,7 +30,7 @@ _**Day 9 - 24.08.2024 Saturday**_
 
 <br>
 
-Network Infrastructure; Internet Gateway, Subnets, Route Table
+Network Infrastructure; Internet Gateway, Subnets and Route Table
 
 ![image](https://github.com/user-attachments/assets/df07ee1d-b114-494d-b190-33c07c292df1)
 
@@ -64,6 +64,8 @@ demo2-vpc
 
 ![image](https://github.com/user-attachments/assets/7c715996-beea-476e-8e21-1c21139eb617)
 
+<br>
+
 demo2-igw
 
 ![image](https://github.com/user-attachments/assets/cc1cfff4-d9cb-4238-be21-bf7bb698d78a)
@@ -82,6 +84,37 @@ Attach to VPC
 
 <br>
 
+![image](https://github.com/user-attachments/assets/4d1506be-62fc-4f7d-b0d4-1359320a137a)
+
+<br>
+
+public-demo2vpc-1a
+
+192.168.0.0/16
+
+192.168.10.0/24
+
+![image](https://github.com/user-attachments/assets/4f5a0ffa-4ad5-49a8-b38d-9c851957e551)
+
+![image](https://github.com/user-attachments/assets/917e66a4-b0a4-4213-bd38-e8b8c77f2bdb)
+
+<br>
+
+public-demo2vpc-1b
+
+192.168.0.0/16
+
+192.168.20.0/24
+
+![image](https://github.com/user-attachments/assets/e3fbcbde-7684-4893-be45-159ea30c5201)
+
+![image](https://github.com/user-attachments/assets/71840615-03b1-4250-a177-c9c190a1076f)
+
+<br>
+
+subnets created
+
+![image](https://github.com/user-attachments/assets/dd3fedc9-ef89-4ec9-9fba-9cb6ba76e3ce)
 
 
 ## Create Route table
