@@ -260,7 +260,7 @@ Ubuntu server security tab inbound rule http port 80 added
 
 <br>
 
-Open IP address in web browser
+Open IP address in the web browser
 
 35.159.x.x
 
