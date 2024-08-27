@@ -259,6 +259,10 @@ HTTP port 80 added
 
 <br>
 
+Open IP address in the web browser 
+
+3.92.x.x
+
 ![image](https://github.com/user-attachments/assets/e301995c-14d6-4f07-81c9-7f7d8420e07d)
 
 <br>
