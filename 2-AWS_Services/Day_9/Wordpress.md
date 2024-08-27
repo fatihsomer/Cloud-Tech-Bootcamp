@@ -179,7 +179,7 @@ wordpress database config done
 
 sudo nano wp-config.php
 
-![image](https://github.com/user-attachments/assets/be2aa4dd-fbd9-492a-a3f7-e45a571f1342)
+![image](https://github.com/user-attachments/assets/1daf16b4-a03f-4620-bd63-d6dbacc0c199)
 
 <br>
 
