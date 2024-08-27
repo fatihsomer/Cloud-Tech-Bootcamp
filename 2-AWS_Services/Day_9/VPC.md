@@ -134,7 +134,7 @@ demo2-route-table
 
 Subnet associations → Edit subnet associations
 
-![image](https://github.com/user-attachments/assets/8d905acc-37f4-42ae-b3f3-9322103bd2d2)
+![image](https://github.com/user-attachments/assets/5392f3cd-0687-43c3-b54a-ca0ffd273e7f)
 
 <br>
 
