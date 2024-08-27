@@ -291,7 +291,7 @@ Subnets → Actions → Delete subnet
 
 ![image](https://github.com/user-attachments/assets/a87ba504-3375-4719-9af8-2be4ae0e052a)
 
-
+<br>
 
 Internet gateways → Actions → Detach from VPC
 
@@ -306,3 +306,23 @@ Actions → Delete internet gateway
 ![image](https://github.com/user-attachments/assets/d8167094-d9cb-415b-9817-baa91157c795)
 
 ![image](https://github.com/user-attachments/assets/e9726f23-ea05-42a7-aa2c-c4233b8b7119)
+
+<br>
+
+Actions → Delete route table
+
+![image](https://github.com/user-attachments/assets/3b101822-2296-4b52-b8c8-4a6006e72252)
+
+![image](https://github.com/user-attachments/assets/a97e0a8d-f9c2-4940-b071-8d0121d01c01)
+
+<br>
+
+Your VPCs → Actions → Delete VPC
+
+![image](https://github.com/user-attachments/assets/5859350d-0ffb-41f4-b913-80cd3649733a)
+
+![image](https://github.com/user-attachments/assets/58936513-e57e-48a8-9acb-46169c569af0)
+
+![image](https://github.com/user-attachments/assets/38c22c0e-7a5f-4c41-9598-5fb913694f6c)
+
+
