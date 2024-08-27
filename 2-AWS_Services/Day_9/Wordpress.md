@@ -203,9 +203,9 @@ sudo nano /etc/nginx/sites-available/wordpress
 
 server {  
     listen 80;  
-    server_name your_domain_or_IP; # Replace this with your own domain name or IP address
+    server_name your_domain_or_IP; # replace this with your own domain name or IP address
 
-    root /var/www/html;  
+    root /var/www/html/wordpress;# wordpress folder  
     index index.php index.html index.htm;  
 
     location / {  
@@ -260,4 +260,9 @@ Ubuntu server security tab inbound rule http port 80 added
 
 <br>
 
+Open IP address in web browser
+
+35.159.x.x
+
+![image](https://github.com/user-attachments/assets/4b9279bf-c3b1-4f93-a5c7-6b30980d7bb0)
 
