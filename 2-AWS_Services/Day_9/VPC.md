@@ -116,13 +116,39 @@ subnets created
 
 ![image](https://github.com/user-attachments/assets/dd3fedc9-ef89-4ec9-9fba-9cb6ba76e3ce)
 
+<br>
 
 ## Create Route table
 
+<br>
+
+![image](https://github.com/user-attachments/assets/3df84dca-1207-4956-851d-d6f5db63904b)
 
 <br>
 
+demo2-route-table
 
+![image](https://github.com/user-attachments/assets/fb612b48-b52d-4d47-b283-220179a976be)
+
+<br>
+
+Subnet associations → Edit subnet associations
+
+![image](https://github.com/user-attachments/assets/8d905acc-37f4-42ae-b3f3-9322103bd2d2)
+
+<br>
+
+Selected and Saved
+
+![image](https://github.com/user-attachments/assets/d3d402f0-6165-443f-b4ef-a7929aafba06)
+
+<br>
+
+Explicit subnet associations
+
+![image](https://github.com/user-attachments/assets/52328695-e534-488b-853e-3bd3ae437dd3)
+
+<br>
 
 ## Subnet Auto Assign IP
 
