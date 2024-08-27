@@ -2,6 +2,8 @@ _**Day 9 - 24.08.2024 Saturday**_
 
 <br>
 
+- [VPC (Virtual Private Cloud)](#VPC-Virtual-Private-Cloud)
+  
 - [Create VPC](#Create-VPC)
 
 - [Crete Internet Gateway](#Crete-Internet-Gateway)
@@ -24,17 +26,57 @@ _**Day 9 - 24.08.2024 Saturday**_
 
 <br>
 
-## Create VPC
+## VPC (Virtual Private Cloud)
 
 <br>
 
+Network Infrastructure; Internet Gateway, Subnets, Route Table
 
+![image](https://github.com/user-attachments/assets/df07ee1d-b114-494d-b190-33c07c292df1)
+
+![image](https://github.com/user-attachments/assets/8b8535e6-2b99-4f2c-8efe-eb874c33f2d3)
+
+<br>
+
+## Create VPC
+
+![image](https://github.com/user-attachments/assets/6732077f-7cc1-4e52-8c6f-2c47e9538a9b)
+
+![image](https://github.com/user-attachments/assets/393a9800-c496-4627-8c38-c120ef85949a)
+
+<br>
+
+demo2-vpc
+
+192.168.0.0/16
+
+![image](https://github.com/user-attachments/assets/185a928c-c59e-4f86-99cc-e5bfd3bf3c17)
+
+![image](https://github.com/user-attachments/assets/ce2aae53-3a6a-4c58-a15f-4a8ec6d5b425)
+
+![image](https://github.com/user-attachments/assets/4d844579-a2a2-418b-8df6-579cee4dd923)
+
+<br>
 
 ## Crete Internet Gateway
 
 <br>
 
+![image](https://github.com/user-attachments/assets/7c715996-beea-476e-8e21-1c21139eb617)
 
+demo2-igw
+
+![image](https://github.com/user-attachments/assets/cc1cfff4-d9cb-4238-be21-bf7bb698d78a)
+
+<br>
+
+Attach to VPC
+
+![image](https://github.com/user-attachments/assets/32df237e-4e77-4b0e-b535-9e65bed85a3c)
+
+![image](https://github.com/user-attachments/assets/785d177b-2ff7-46b7-bf68-c99614871741)
+
+<br>
 
 ## Create Subnet
 
