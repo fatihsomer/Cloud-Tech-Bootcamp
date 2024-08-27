@@ -271,4 +271,28 @@ Open IP address in the web browser
 
 <br>
 
+Stop and Teminate (Delete) EC2 instances
 
+Route tables → Subnet associations → Edit subnet associations
+
+![image](https://github.com/user-attachments/assets/b578b719-9023-49e7-8504-69d5a3aa72fd)
+
+<br>
+
+Deselect options and save then it will go to Subnets without explicit associations
+
+![image](https://github.com/user-attachments/assets/18e3138b-ae7c-441d-b113-636b02cd8824)
+
+<br>
+
+Subnets → Actions → Delete subnet
+
+![image](https://github.com/user-attachments/assets/26780d98-498b-449c-a7ee-ed948f00ae10)
+
+![image](https://github.com/user-attachments/assets/a87ba504-3375-4719-9af8-2be4ae0e052a)
+
+<br>
+
+Internet gateways → Actions → Detach from VPC
+
+![image](https://github.com/user-attachments/assets/4e6042a7-564c-48a6-ac09-0c8c04e8bbc3)
