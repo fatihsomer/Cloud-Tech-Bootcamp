@@ -67,6 +67,8 @@ sudo systemctl status nginx
 
 Install PHP
 
+sudo apt install php-fpm php-mysql php-xml php-curl php-mbstring
+
 ![image](https://github.com/user-attachments/assets/4187f650-30dc-443b-a7ea-a8bb4456cc57)
 
 <br>
@@ -75,7 +77,73 @@ Install PHP
 
 <br>
 
+Download Wordpress
 
+wget https://wordpress.org/latest.tar.gz
+
+<br>
+
+Extract Wordpress
+
+tar -xvzf latest.tar.gz
+
+<br>
+
+ls
+
+![image](https://github.com/user-attachments/assets/fcadb8bd-d2d0-4249-ae8c-27cd69c7a21f)
+
+<br>
+
+Move wordpress folder into nginx webserver
+
+sudo mv wordpress /var/www/html/  or  sudo rsync -avP wordpress/ /var/www/html/
+
+![image](https://github.com/user-attachments/assets/e41dceb6-864b-4440-99d7-659875402496)
+
+<br>
+
+Goto nginx folder and check wordpress
+
+cd /var/www/html/
+
+ls
+
+![image](https://github.com/user-attachments/assets/abc77a0f-5abd-4144-bb45-9381ab555fb1)
+
+<br>
+
+Go into wordpress folder
+
+cd Wordpress
+
+ll
+
+![image](https://github.com/user-attachments/assets/09c7dca7-f65f-4666-ba65-11bd729c747f)
+
+<br>
+
+php config file copied
+
+sudo cp wp-config-sample.php wp-config.php
+
+ls -la
+
+![image](https://github.com/user-attachments/assets/3bce9e2d-0494-4411-a2ac-7ec0ac473f63)
+
+<br>
+
+php file opened with nano editor
+
+sudo nano wp-config.php
+
+![image](https://github.com/user-attachments/assets/51e1effd-96f5-4376-b9dc-d0c77373fa85)
+
+Database config is here 
+
+![image](https://github.com/user-attachments/assets/736d5727-b243-497b-bc22-af5be7ed25aa)
+
+<br>
 
 ## Database config
 
