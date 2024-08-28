@@ -119,7 +119,13 @@ DNS query
 
 cmd → nslookup → set type=ns
 
+ibbtechwpdemo.run.place
+
 ![image](https://github.com/user-attachments/assets/6164306e-67ff-4368-963c-89cfe1cb7a55)
+
+<br>
+
+ibb1.ibbtechwpdemo.run.place
 
 ![image](https://github.com/user-attachments/assets/10799228-ded8-431a-a6fa-5dc8a1e77b0d)
 
