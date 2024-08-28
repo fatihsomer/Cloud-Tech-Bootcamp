@@ -6,7 +6,9 @@ _**Day 10 - 27.08.2024 Tuesday**_
 
 - [Create Target group](#Create-Target-group)
 
- - [Cloudflare DNS record](#Cloudflare-DNS-record)
+- [Return back](#Return-back)
+
+- [Cloudflare DNS record](#Cloudflare-DNS-record)
 
 <br>
 
@@ -78,6 +80,10 @@ Target group created
 
 <br>
 
+## Return back
+
+<br>
+ 
 Returned to the Load Balancer tab and the newly created target group selected
 
 ![image](https://github.com/user-attachments/assets/1a254474-c3bb-443b-8b08-29e4fd0d4829)
