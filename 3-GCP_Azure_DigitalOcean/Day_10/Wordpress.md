@@ -151,7 +151,7 @@ ibb1 website and IP registered then changes Saved
 
 <br>
 
-ibb1.ibbtechwpdemo.run.place
+[ibb1.ibbtechwpdemo.run.place](http://ibb1.ibbtechwpdemo.run.place/)
 
 ![image](https://github.com/user-attachments/assets/2acb5fa7-96db-40b1-a911-702bc82a83e5)
 
