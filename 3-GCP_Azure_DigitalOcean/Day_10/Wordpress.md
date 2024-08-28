@@ -151,7 +151,7 @@ ibb1.ibbtechwpdemo.run.place
 
 <br>
 
-ibb1 website and IP registered then changes Saved
+Register ibb1 website and IP as A Record then Save changes
 
 ![image](https://github.com/user-attachments/assets/79e48f6d-22c4-4ad7-afcd-19953b4fb059)
 
