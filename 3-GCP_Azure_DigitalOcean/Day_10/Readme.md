@@ -9,9 +9,14 @@ https://www.youtube.com/watch?v=BH8_hHHyRJ4
 <br>
 
 1- Wordpress [Wordpress.md](Wordpress.md)
+- WordPress installation
 - Web installation
 - Web site config
 - Register Domain
+- DNS query
+- Register website
+- Open website
+
 
 <br>
 
