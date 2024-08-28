@@ -8,6 +8,8 @@ _**Day 10 - 27.08.2024 Tuesday**_
 
 - [Return back](#Return-back)
 
+- [EC2 instances](#EC2-instances)
+
 <br>
 
 ## Create Auto Scaling Group
@@ -135,6 +137,8 @@ Auto Scaling group created
 ![image](https://github.com/user-attachments/assets/dd92a9bf-40dc-41b0-b817-ecc562a52f53)
 
 <br>
+
+## EC2 instances
 
 EC2 instances automatically created
 
