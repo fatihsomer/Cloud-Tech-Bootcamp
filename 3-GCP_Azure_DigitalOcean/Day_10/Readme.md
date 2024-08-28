@@ -1,0 +1,25 @@
+_**Day 10 - 27.08.2024 Tuesday**_
+
+<br>
+
+Today's Lesson video :
+
+https://www.youtube.com/watch?v=BH8_hHHyRJ4
+
+<br>
+
+1- Wordpress [Wordpress.md](Wordpress.md)
+- Wordpress web installation
+- Web site config
+- Register Domain
+
+<br>
+
+2- Load Balance [Load_Balance.md](Load_Balance.md)
+- Create
+
+<br>
+
+3- Auto Scale [Auto_Scale.md](Auto_Scale.md)
+- Create
+
