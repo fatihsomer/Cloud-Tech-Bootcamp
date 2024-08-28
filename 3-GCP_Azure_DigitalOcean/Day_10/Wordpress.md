@@ -8,6 +8,8 @@ _**Day 10 - 27.08.2024 Tuesday**_
 
 - [Register Domain](#Register-Domain)
 
+- [DNS query](#DNS-query)
+
 - [Register web site](#Register-web-site)
 
 <br>
@@ -115,7 +117,7 @@ ibbtechwpdemo.run.place
 
 <br>
 
-DNS query
+## DNS query
 
 cmd → nslookup → set type=ns
 
