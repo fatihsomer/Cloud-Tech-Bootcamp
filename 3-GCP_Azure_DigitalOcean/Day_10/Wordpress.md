@@ -57,9 +57,9 @@ Create new folder
 
 cd /var/www/htmlxyz/
 
-ll
-
 sudo mkdir ibb2024
+
+ll
 
 ![image](https://github.com/user-attachments/assets/05303fc0-d81a-438d-9726-796eeee5fb25)
 
