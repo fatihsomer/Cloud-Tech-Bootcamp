@@ -14,9 +14,9 @@ https://www.youtube.com/watch?v=BH8_hHHyRJ4
 - Web site config
 - Register Domain
 - DNS query
-- Register website
+- Register website with Free Domain
+- Register website with Cloudflare
 - Open website
-
 
 <br>
 
