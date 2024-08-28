@@ -10,7 +10,9 @@ _**Day 10 - 27.08.2024 Tuesday**_
 
 - [DNS query](#DNS-query)
 
-- [Register web site](#Register-web-site)
+- [Register website](#Register-website)
+
+- [Open website](#Open-website)
 
 <br>
 
@@ -133,7 +135,7 @@ ibb1.ibbtechwpdemo.run.place
 
 <br>
 
-## Register web site
+## Register website
 
 <br>
 
@@ -142,6 +144,12 @@ ibb1 website and IP registered then changes Saved
 ![image](https://github.com/user-attachments/assets/79e48f6d-22c4-4ad7-afcd-19953b4fb059)
 
 ![image](https://github.com/user-attachments/assets/22926b70-56ce-44dd-83b7-96fa4a7c4658)
+
+<br>
+
+## Open website
+
+<br>
 
 ibb1.ibbtechwpdemo.run.place
 
