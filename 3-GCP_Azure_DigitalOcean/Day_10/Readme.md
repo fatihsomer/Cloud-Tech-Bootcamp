@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=BH8_hHHyRJ4
 <br>
 
 1- Wordpress [Wordpress.md](Wordpress.md)
-- Wordpress web installation
+- Web installation
 - Web site config
 - Register Domain
 
