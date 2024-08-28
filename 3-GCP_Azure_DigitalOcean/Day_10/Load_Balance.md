@@ -76,7 +76,7 @@ Target group created
 
 <br>
 
-Returned to Load Balancer tab and newly created target group selected
+Returned to the Load Balancer tab and the newly created target group selected
 
 ![image](https://github.com/user-attachments/assets/1a254474-c3bb-443b-8b08-29e4fd0d4829)
 
