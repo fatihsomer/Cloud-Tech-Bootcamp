@@ -21,7 +21,9 @@ https://www.youtube.com/watch?v=BH8_hHHyRJ4
 <br>
 
 2- Load Balance [Load_Balance.md](Load_Balance.md)
-- Create
+- Create Load balancer
+- Create Target group
+- Cloudflare DNS record
 
 <br>
 
