@@ -2,11 +2,13 @@ _**Day 10 - 27.08.2024 Tuesday**_
 
 <br>
 
-- [Create](#Create)
+- [Create Load balancer](#Create-Load-balancer)
+
+- [Create Target group](#Create-Target-group)
 
 <br>
 
-## Create
+## Create Load balancer
 
 <br>
 
@@ -37,6 +39,10 @@ Network Mapping
 Security groups
 
 ![image](https://github.com/user-attachments/assets/fa756d3f-03b8-4f1d-a3a8-9938624dfe30)
+
+<br>
+
+## Create Target group
 
 <br>
 
