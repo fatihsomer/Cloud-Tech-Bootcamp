@@ -2,7 +2,7 @@ _**Day 10 - 27.08.2024 Tuesday**_
 
 <br>
 
-- [Wordpress web installation](#Wordpress-web-installation)
+- [Web installation](#Web-installation)
 
 - [Web site config](#Web-site-config)
 
@@ -10,7 +10,7 @@ _**Day 10 - 27.08.2024 Tuesday**_
 
 <br>
 
-## Wordpress web installation
+## Web installation
 
 <br>
 
