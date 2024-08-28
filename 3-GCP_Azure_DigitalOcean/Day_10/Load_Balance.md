@@ -99,7 +99,7 @@ Load Balancer Created
 
 Load Balancer DNS name added as CNAME DNS record into Cloudflare
 
-http://internal-wp-tech-lb-**xyz**.eu-central-1.elb.amazonaws.com/
+http://internal-wp-tech-lb-xyz.eu-central-1.elb.amazonaws.com/
 
 ![image](https://github.com/user-attachments/assets/4da4691d-56cc-4d1e-bb80-6ba0a225f6cc)
 
