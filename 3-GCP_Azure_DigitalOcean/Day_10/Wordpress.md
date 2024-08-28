@@ -12,7 +12,9 @@ _**Day 10 - 27.08.2024 Tuesday**_
 
 - [DNS query](#DNS-query)
 
-- [Register website](#Register-website)
+- [Register website with Free Domain](#Register-website-with-Free-Domain)
+
+- [Register website with Cloudflare](#Register-website-with-Cloudflare)
 
 - [Open website](#Open-website)
 
@@ -147,7 +149,7 @@ ibb1.ibbtechwpdemo.run.place
 
 <br>
 
-## Register website
+## Register website with Free Domain
 
 <br>
 
@@ -156,6 +158,18 @@ Register ibb1 website and IP as A Record then Save changes
 ![image](https://github.com/user-attachments/assets/79e48f6d-22c4-4ad7-afcd-19953b4fb059)
 
 ![image](https://github.com/user-attachments/assets/22926b70-56ce-44dd-83b7-96fa4a7c4658)
+
+<br>
+
+## Register website with Cloudflare
+
+<br>
+
+Register ibb1 website and IP as A Record then Save
+
+![image](https://github.com/user-attachments/assets/25393c64-e266-4ecf-82dc-5857cc0a3170)
+
+![image](https://github.com/user-attachments/assets/862ccc67-9c16-4ecc-a991-a374a613f685)
 
 <br>
 
