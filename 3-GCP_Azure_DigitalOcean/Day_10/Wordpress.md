@@ -8,6 +8,8 @@ _**Day 10 - 27.08.2024 Tuesday**_
 
 - [Register Domain](#Register-Domain)
 
+- [Register web site](#Register-web-site)
+
 <br>
 
 ## Web installation
@@ -102,3 +104,35 @@ sudo systemctl restart nginx
 ## Register Domain
 
 <br>
+
+Free Domain names website
+
+https://freedomain.one/
+
+Free Domain name registered
+
+ibbtechwpdemo.run.place
+
+<br>
+
+DNS query
+
+cmd → nslookup → set type=ns
+
+![image](https://github.com/user-attachments/assets/6164306e-67ff-4368-963c-89cfe1cb7a55)
+
+![image](https://github.com/user-attachments/assets/10799228-ded8-431a-a6fa-5dc8a1e77b0d)
+
+<br>
+
+## Register web site
+
+<br>
+
+ibb1 website and IP registered then changes Saved
+
+![image](https://github.com/user-attachments/assets/79e48f6d-22c4-4ad7-afcd-19953b4fb059)
+
+![image](https://github.com/user-attachments/assets/22926b70-56ce-44dd-83b7-96fa4a7c4658)
+
+
