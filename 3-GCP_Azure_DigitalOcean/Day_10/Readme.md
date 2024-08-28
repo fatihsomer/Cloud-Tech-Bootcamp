@@ -32,3 +32,4 @@ https://www.youtube.com/watch?v=BH8_hHHyRJ4
 - Create Auto Scaling Group
 - Create a launch template
 - Return back
+- EC2 instances
