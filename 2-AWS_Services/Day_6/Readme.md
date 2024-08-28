@@ -40,5 +40,5 @@ https://www.youtube.com/watch?v=5Sai6mUbD_w
 
 <br>
 
-5- Storage 
+5- Storage [Storage.md](Storage.md)
 - Increase Disk Capacity
