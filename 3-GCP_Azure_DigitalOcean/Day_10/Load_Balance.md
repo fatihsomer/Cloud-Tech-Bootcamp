@@ -38,6 +38,8 @@ Network Mapping
 
 ![image](https://github.com/user-attachments/assets/fca41b91-9691-43c2-87da-8ef7a8544a78)
 
+![image](https://github.com/user-attachments/assets/24c9331a-f160-423f-9042-06dae692e513)
+
 <br>
 
 Security groups
