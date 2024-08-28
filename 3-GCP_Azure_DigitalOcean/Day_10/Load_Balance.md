@@ -6,6 +6,8 @@ _**Day 10 - 27.08.2024 Tuesday**_
 
 - [Create Target group](#Create-Target-group)
 
+ - [Cloudflare DNS record](#Cloudflare-DNS-record)
+
 <br>
 
 ## Create Load balancer
@@ -91,4 +93,11 @@ Create Load balancer
 Load Balancer Created
 
 ![image](https://github.com/user-attachments/assets/384fc2b1-592f-4d31-8323-78c051a61a29)
+
+
+## Cloudflare DNS record
+
+![image](https://github.com/user-attachments/assets/4da4691d-56cc-4d1e-bb80-6ba0a225f6cc)
+
+![image](https://github.com/user-attachments/assets/1aaa23b9-9f3e-45f6-92b6-5c8cf7035b4a)
 
