@@ -2,6 +2,8 @@ _**Day 10 - 27.08.2024 Tuesday**_
 
 <br>
 
+- [WordPress installation](#WordPress-installation)
+
 - [Web installation](#Web-installation)
 
 - [Web site config](#Web-site-config)
@@ -13,6 +15,16 @@ _**Day 10 - 27.08.2024 Tuesday**_
 - [Register website](#Register-website)
 
 - [Open website](#Open-website)
+
+<br>
+
+## WordPress installation
+
+<br>
+
+Check for Wordpress full installation steps
+
+https://github.com/fatihsomer/Cloud_Tech_Bootcamp/blob/main/2-AWS_Services/Day_9/Wordpress.md
 
 <br>
 
