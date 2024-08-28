@@ -73,7 +73,7 @@ sudo wget https://bootstrapmade.com/content/templatefiles/Bootslander/Bootslande
 
 <br>
 
-Extract zip file
+Install unzip tool and Extract zip file
 
 sudo apt install unzip
 
