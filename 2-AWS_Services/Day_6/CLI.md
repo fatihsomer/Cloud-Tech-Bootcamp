@@ -133,7 +133,7 @@ Open terminal
 
 aws iam list-users
 
-![image](https://github.com/user-attachments/assets/381698af-7dcb-4837-a23b-01d98a54e3b9)
+![image](https://github.com/user-attachments/assets/4fbd9122-1bc9-46d7-88d0-4c7cca6dcd98)
 
 <br>
 
@@ -173,10 +173,14 @@ IAM → Users → Security Credentials → Access keys → Actions → Deactivat
 
 <br>
 
+Disable then Delete
+
 IAM → Users → Security Credentials → Access keys → Actions → Delete
 
 ![image](https://github.com/user-attachments/assets/b7538985-3288-44f3-9a05-5a8e8fe487c0)
 
 ![image](https://github.com/user-attachments/assets/e5c8404b-6b71-4e46-945c-ff5a6a9afb49)
+
+![image](https://github.com/user-attachments/assets/cfc23529-58d0-48df-b442-23ebe7727edd)
 
 ![image](https://github.com/user-attachments/assets/42fdcfa0-02d4-4bea-b969-e3303991baae)
