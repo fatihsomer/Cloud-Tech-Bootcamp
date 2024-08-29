@@ -157,9 +157,11 @@ aws ec2 terminate-instances --instance-ids i-0b... --region us-east-1
 
 <br>
 
-IAM → Users → Access keys → Actions → Deactivate
+IAM → Users → Security Credentials → Access keys → Actions → Deactivate
 
 ![image](https://github.com/user-attachments/assets/dbee9de1-6575-4bb0-a459-b48159779576)
+
+![image](https://github.com/user-attachments/assets/dd16476f-c828-4924-8926-d99eecc6e8b3)
 
 <br>
 
@@ -167,7 +169,7 @@ IAM → Users → Access keys → Actions → Deactivate
 
 <br>
 
-IAM → Users → Access keys → Actions → Delete
+IAM → Users → Security Credentials → Access keys → Actions → Delete
 
 ![image](https://github.com/user-attachments/assets/b7538985-3288-44f3-9a05-5a8e8fe487c0)
 
