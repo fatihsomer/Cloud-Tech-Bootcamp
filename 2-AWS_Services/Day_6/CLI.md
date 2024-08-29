@@ -133,6 +133,8 @@ Open terminal
 
 aws iam list-users
 
+![image](https://github.com/user-attachments/assets/381698af-7dcb-4837-a23b-01d98a54e3b9)
+
 <br>
 
 aws c2 describe-instances --region eu-central-1
@@ -150,6 +152,8 @@ aws ec2 stop-instances --instance-ids i-0b... --region us-east-1
 <br>
 
 aws ec2 terminate-instances --instance-ids i-0b... --region us-east-1
+
+![image](https://github.com/user-attachments/assets/838f8726-5321-47a2-a8ee-acfe542ba2c1)
 
 <br>
 
