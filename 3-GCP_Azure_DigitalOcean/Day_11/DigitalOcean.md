@@ -36,7 +36,7 @@ _**Day 11 - 29.08.2024 Thursday**_
 
 - [File Transfer](#File-Transfer)
 
-- [SSH (DigitalOcean → AWS)](#SSH-DigitalOcean-→-AWS)
+- [SSH Connection](#SSH-Connection)
 
 - [Droplets](#Droplets)
 
@@ -138,7 +138,7 @@ _**Day 11 - 29.08.2024 Thursday**_
 
 <br>
 
-## SSH (DigitalOcean → AWS)
+## SSH Connection
 
 <br>
 
