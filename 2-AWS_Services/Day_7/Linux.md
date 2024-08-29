@@ -30,6 +30,12 @@ ESC + A → insert mode
 
 <br>
 
+ESC + O → inserts a blank line below
+
+![image](https://github.com/user-attachments/assets/d9c48caf-8046-478e-8b79-a6110efe3057)
+
+<br>
+
 ESC + :w! → save file
 
 ESC + :q! → exit from the file and return to the console
@@ -37,14 +43,6 @@ ESC + :q! → exit from the file and return to the console
 ESC + :wq! → save then exit from the file
 
 ESC + :x! → save then exit from the file
-
-<br>
-
-ESC + O → inserts a blank line below
-
-![image](https://github.com/user-attachments/assets/d9c48caf-8046-478e-8b79-a6110efe3057)
-
-<br>
 
 ESC + / → search
 
