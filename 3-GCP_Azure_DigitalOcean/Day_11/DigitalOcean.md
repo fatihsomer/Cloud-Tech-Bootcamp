@@ -2,71 +2,71 @@ _**Day 11 - 29.08.2024 Thursday**_
 
 <br>
 
-  - [Sign up](#Sign-up)
-  
-  - [Dashboard](#Dashboard)
+- [Sign up](#Sign-up)
 
-    - [Projects](#Projects)
+- [Dashboard](#Dashboard)
 
-    - [App](#App)
+  - [Projects](#Projects)
 
-    - [Droplets (Servers)](#Droplets-Servers)
+  - [App](#App)
 
-    - [Kubernetes](#Kubernetes)
+  - [Droplets (Servers)](#Droplets-Servers)
 
-    - [Volume (Storage)](#Volume-Storage)
+  - [Kubernetes](#Kubernetes)
 
-    - [Database](#Database)
+  - [Volume (Storage)](#Volume-Storage)
 
-    - [Spaces Object Storage](#Spaces-Object-Storage)
+  - [Database](#Database)
 
-    - [Container (Docker)](#Container-Docker)
+  - [Spaces Object Storage](#Spaces-Object-Storage)
 
-    - [Backups & Snapshots](#Backups--Snapshots)
+  - [Container (Docker)](#Container-Docker)
 
-    - [Network](#Network)
+  - [Backups & Snapshots](#Backups--Snapshots)
 
-    - [Monitoring](#Monitoring)
-  
-  - [Create Droplet](#Create-Droplet)
-  
-  - [Connect via SSH](#Connect-via-SSH)
-  
-  - [AWS Server](#AWS-Server)
-  
-  - [File Transfer](#File-Transfer)
-  
-  - [SSH (DigitalOcean → AWS)](#SSH-DigitalOcean-→-AWS)
-  
-  - [Droplets](#Droplets)
+  - [Network](#Network)
 
-    - [Access](#Access)
+  - [Monitoring](#Monitoring)
 
-    - [Turn Off](#Turn-Off)
+- [Create Droplet](#Create-Droplet)
 
-    - [Resize](#Resize)
+- [Connect via SSH](#Connect-via-SSH)
 
-    - [Network](#Network)
+- [AWS Server](#AWS-Server)
 
-    - [Firewall](#Firewall)
-  
-  - [DNS](#DNS)
-  
-  - [Install Web server](#Install-Web-server)
-  
-  - [Open Web URL](#Open-Web-URL)
-  
-  - [Apache Config](#Apache-Config)
-  
-  - [SSL install](#SSL-install)
-  
-  - [SSL install (Cloudflare)](#SSL-install-Cloudflare)
-  
-  - [Create SSL keys](#Create-SSL-keys)
-  
-  - [Buy SSL certificate](#Buy-SSL-certificate)
-  
-  - [Crontab](#Crontab)
+- [File Transfer](#File-Transfer)
+
+- [SSH (DigitalOcean → AWS)](#SSH-DigitalOcean-→-AWS)
+
+- [Droplets](#Droplets)
+
+  - [Access](#Access)
+
+  - [Turn Off](#Turn-Off)
+
+  - [Resize](#Resize)
+
+  - [Network](#Network)
+
+  - [Firewall](#Firewall)
+
+- [DNS](#DNS)
+
+- [Install Web server](#Install-Web-server)
+
+- [Open Web URL](#Open-Web-URL)
+
+- [Apache Config](#Apache-Config)
+
+- [SSL install](#SSL-install)
+
+- [SSL install (Cloudflare)](#SSL-install-Cloudflare)
+
+- [Create SSL keys](#Create-SSL-keys)
+
+- [Buy SSL certificate](#Buy-SSL-certificate)
+
+- [Crontab](#Crontab)
 
 <br>
 
