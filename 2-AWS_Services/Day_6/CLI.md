@@ -131,7 +131,35 @@ Open terminal
 
 <br>
 
+aws iam list-users
+
+<br>
+
+aws c2 describe-instances --region eu-central-1
+
+![image](https://github.com/user-attachments/assets/d3d3d06e-99a6-4b55-bfbb-df51e707c040)
+
+<br>
+
+aws ec2 stop-instances --instance-ids i-0b... --region us-east-1
+
+![image](https://github.com/user-attachments/assets/5c7924e6-62f7-45f4-9bb6-f5b4f1c34964)
+
+![image](https://github.com/user-attachments/assets/7561874c-a6c4-44d0-84fe-797bb8fdcff0)
+
+<br>
+
+aws ec2 terminate-instances --instance-ids i-0b... --region us-east-1
+
+<br>
+
 ## Disable User Access Key
+
+<br>
+
+IAM → Users → Access keys → Actions → Deactivate
+
+![image](https://github.com/user-attachments/assets/dbee9de1-6575-4bb0-a459-b48159779576)
 
 <br>
 
@@ -139,3 +167,10 @@ Open terminal
 
 <br>
 
+IAM → Users → Access keys → Actions → Delete
+
+![image](https://github.com/user-attachments/assets/b7538985-3288-44f3-9a05-5a8e8fe487c0)
+
+![image](https://github.com/user-attachments/assets/e5c8404b-6b71-4e46-945c-ff5a6a9afb49)
+
+![image](https://github.com/user-attachments/assets/42fdcfa0-02d4-4bea-b969-e3303991baae)
