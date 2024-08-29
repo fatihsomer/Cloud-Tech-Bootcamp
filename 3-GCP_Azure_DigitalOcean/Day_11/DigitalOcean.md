@@ -72,66 +72,132 @@ _**Day 11 - 29.08.2024 Thursday**_
 
 ## Sign up
 
+<br>
+
 ## Dashboard
+
+<br>
 
 ### Projects
 
+<br>
+
 ### App
+
+<br>
 
 ### Droplets (Servers)
 
+<br>
+
 ### Kubernetes
+
+<br>
 
 ### Volume (Storage)
 
+<br>
+
 ### Database
+
+<br>
 
 ### Spaces Object Storage
 
+<br>
+
 ### Container (Docker)
+
+<br>
 
 ### Backups & Snapshots
 
+<br>
+
 ### Network
+
+<br>
 
 ### Monitoring
 
+<br>
+
 ## Create Droplet
+
+<br>
 
 ## Connect via SSH
 
+<br>
+
 ## AWS Server
+
+<br>
 
 ## File Transfer
 
+<br>
+
 ## SSH (DigitalOcean → AWS)
+
+<br>
 
 ## Droplets
 
+<br>
+
 ### Access
+
+<br>
 
 ### Turn Off
 
+<br>
+
 ### Resize
+
+<br>
 
 ### Network
 
+<br>
+
 ### Firewall
+
+<br>
 
 ## DNS
 
+<br>
+
 ## Install Web server
+
+<br>
 
 ## Open Web URL
 
+<br>
+
 ## Apache Config
+
+<br>
 
 ## SSL install
 
+<br>
+
 ## SSL install (Cloudflare)
+
+<br>
 
 ## Create SSL keys
 
+<br>
+
 ## Buy SSL certificate
 
+<br>
+
 ## Crontab
+
+<br>
