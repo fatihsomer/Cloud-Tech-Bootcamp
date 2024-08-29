@@ -10,4 +10,8 @@ _**Day 11 - 29.08.2024 Thursday**_
 
 ## Register
 
+<br>
+
 ## Monitoring
+
+<br>
