@@ -11,6 +11,7 @@ https://www.youtube.com/watch?v=qXokPUEK6xI&t=7s
 1- Linux (OS) [Linux.md](Linux.md)
 - vi and nano text editors
 - File backup, edit and display (cat and more commands)
+- nano text editor
 - apt command
 
 <br>
