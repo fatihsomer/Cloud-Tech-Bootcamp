@@ -354,7 +354,29 @@ ssh -i wordpress.pem ubuntu@18.197.x.x
 
 <br>
 
+![image](https://github.com/user-attachments/assets/a5cf612e-b7d5-4035-9cfe-458b7c91e1bb)
+
+<br>
+
 ### Turn Off
+
+<br>
+
+![image](https://github.com/user-attachments/assets/854f678e-f57e-4931-b816-f54837651408)
+
+<br>
+
+Reset root password
+
+![image](https://github.com/user-attachments/assets/4ffd61a8-e334-4e62-b0f7-e6f4b29d8af7)
+
+<br>
+
+Reset root password from console
+
+sudo passwd root
+
+![image](https://github.com/user-attachments/assets/1b683e85-5c32-4128-8a48-f27b670ed4ff)
 
 <br>
 
@@ -362,11 +384,49 @@ ssh -i wordpress.pem ubuntu@18.197.x.x
 
 <br>
 
+![image](https://github.com/user-attachments/assets/ef8b43f3-32ba-44b1-86b6-d0088345041f)
+
+<br>
+
 ### Network
 
 <br>
 
+Reserve IP (similar to AWS Elastic IP)
+
+![image](https://github.com/user-attachments/assets/71972187-1d2a-4cb1-b5c4-c548237653a0)
+
+<br>
+
 ### Firewall
+
+<br>
+
+Never give full access permissions to inbound and outbound in the firewall
+
+Let's only give permissions to the accesses needed, the more restricted then more secure the system becomes
+
+![image](https://github.com/user-attachments/assets/ce50f7fd-27f9-4aaa-9ee9-036ffb469db6)
+
+<br>
+
+Networking → Firewalls → Create Firewalls
+
+![image](https://github.com/user-attachments/assets/b42f27f0-29ea-487e-a02b-8f49b0a5d655)
+
+![image](https://github.com/user-attachments/assets/07ffb9a9-daa7-462d-a86f-e2f8853e5a6c)
+
+![image](https://github.com/user-attachments/assets/f5078580-d824-4865-8b03-768de2dab4d9)
+
+![image](https://github.com/user-attachments/assets/02c82fe4-11af-49c1-bb77-9728a323ff23)
+
+![image](https://github.com/user-attachments/assets/299557ca-8622-4311-88ed-30cbf88648af)
+
+![image](https://github.com/user-attachments/assets/a8727410-c3fc-4d5e-824e-1b4827ce6220)
+
+![image](https://github.com/user-attachments/assets/cfdbe5f9-6156-4c72-966e-3561739ad225)
+
+![image](https://github.com/user-attachments/assets/884900c9-d1c1-4ad8-9e64-7e51c8fb913e)
 
 <br>
 
