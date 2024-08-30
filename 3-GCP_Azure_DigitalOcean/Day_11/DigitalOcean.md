@@ -136,9 +136,13 @@ Settings → Enable Alert
 
 <br>
 
+### Projects
+
 <br>
 
-### Projects
+New Project
+
+![image](https://github.com/user-attachments/assets/6a9f3b31-e5b7-497e-9aaf-6f43ea0e83ec)
 
 <br>
 
@@ -146,7 +150,17 @@ Settings → Enable Alert
 
 <br>
 
+![image](https://github.com/user-attachments/assets/89c5d366-5b3f-477e-a4a9-2081ff07839c)
+
+<br>
+
 ### Droplets (Servers)
+
+<br>
+
+Same with AWS EC2
+
+![image](https://github.com/user-attachments/assets/edf9ca5c-4785-4a84-9589-08b5f29bf2d9)
 
 <br>
 
@@ -154,7 +168,15 @@ Settings → Enable Alert
 
 <br>
 
+![image](https://github.com/user-attachments/assets/e30f4068-5d44-46c4-8f6d-5c02283706df)
+
+<br>
+
 ### Volume (Storage)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/63770b50-2e6c-4946-ae32-efac5fccb5c0)
 
 <br>
 
@@ -162,7 +184,21 @@ Settings → Enable Alert
 
 <br>
 
+Same with AWS RDS
+
+![image](https://github.com/user-attachments/assets/98eabd84-a1e6-493d-96fe-cd9e8c0617b1)
+
+<br>
+
 ### Spaces Object Storage
+
+<br>
+
+Same with AWS S3
+
+![image](https://github.com/user-attachments/assets/c31080bc-cb51-4ec6-9a67-9735b40b1e5b)
+
+![image](https://github.com/user-attachments/assets/261212cf-252b-45a9-b5ae-648fdfade5ed)
 
 <br>
 
@@ -170,7 +206,15 @@ Settings → Enable Alert
 
 <br>
 
+![image](https://github.com/user-attachments/assets/90af7b50-9221-4157-a013-aca64549d76c)
+
+<br>
+
 ### Backups & Snapshots
+
+<br>
+
+![image](https://github.com/user-attachments/assets/f0561ac6-d757-46e5-9403-3c70812270c7)
 
 <br>
 
@@ -178,7 +222,25 @@ Settings → Enable Alert
 
 <br>
 
+Load Balancers
+
+![image](https://github.com/user-attachments/assets/cacef5d8-9324-4284-934f-bf2827af0edd)
+
+<br>
+
+Domains → Add Domain
+
+![image](https://github.com/user-attachments/assets/dcdfa388-1446-4bce-a1a5-182c035fb6ad)
+
+![image](https://github.com/user-attachments/assets/7f2c1261-d079-4a9a-80fa-77bf904cb854)
+
+<br>
+
 ### Monitoring
+
+<br>
+
+![image](https://github.com/user-attachments/assets/bc7b7743-99eb-49fe-92c4-9b38c980bdc9)
 
 <br>
 
