@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=gAQ9hxfqT8E
 - Connect via SSH
 - AWS Server
 - File Transfer
-- SSH (DigitalOcean  → AWS)
+- SSH Connection
 - Droplets
   - Access
   - Turn Off
