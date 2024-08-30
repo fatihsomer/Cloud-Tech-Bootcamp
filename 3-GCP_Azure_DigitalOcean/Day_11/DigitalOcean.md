@@ -10,7 +10,7 @@ _**Day 11 - 29.08.2024 Thursday**_
 
   - [Support](#Support)
 
-- [Dashboard](#Dashboard)
+- [Dashboard Panel](#Dashboard-Panel)
 
   - [Projects](#Projects)
 
@@ -132,7 +132,7 @@ Settings → Enable Alert
 
 <br>
 
-## Dashboard
+## Dashboard Panel
 
 <br>
 
