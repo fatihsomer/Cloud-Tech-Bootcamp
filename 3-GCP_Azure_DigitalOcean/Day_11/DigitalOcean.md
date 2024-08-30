@@ -604,8 +604,6 @@ y y
 
 ![image](https://github.com/user-attachments/assets/2c01e37b-02b0-4af7-88a5-f2e1b60a8910)
 
-![image](https://github.com/user-attachments/assets/aa561c2c-7895-48d9-b0e2-16ab74844a76)
-
 <br>
 
 A new SSL config file created
