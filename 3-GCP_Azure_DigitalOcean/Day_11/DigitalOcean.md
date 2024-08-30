@@ -644,7 +644,39 @@ https://tech.ibbtechwpdemo.run.place/
 
 <br>
 
+![image](https://github.com/user-attachments/assets/6c67b033-904b-448d-b30f-3976d50e62b0)
+
+<br>
+
+Flexible provides security between Browser and Cloudflare, it happens without installing the certificate on the server
+
+![image](https://github.com/user-attachments/assets/052506b1-6f94-490a-94be-f418f1570605)
+
+
+
 ## Create SSL keys
+
+<br>
+
+cd /root
+
+openssl req -new -newkey rsa:2048 -nodes -keyout devopslearnwith.us.key -out devopslearnwith.us.csr
+
+![image](https://github.com/user-attachments/assets/b2d6f7cc-4ae6-4bb0-ba4d-f0e292554ba1)
+
+<br>
+
+Do not share the key file with anyone in any way, otherwise, SSL and security will have no meaning!!!
+
+![image](https://github.com/user-attachments/assets/91928b03-2d5d-4db9-8c52-97f90d02bf9a)
+
+![image](https://github.com/user-attachments/assets/337731a2-c753-4229-b02f-739396ead500)
+
+<br>
+
+The command must be executed on the last day of the certificate expiration date
+
+certbot renew --dry-run
 
 <br>
 
