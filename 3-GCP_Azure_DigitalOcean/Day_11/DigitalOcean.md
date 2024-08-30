@@ -470,6 +470,34 @@ Add DNS A record into Free Domain
 
 <br>
 
+installing apache web server
+
+DigitalOcean ubuntu server terminal
+
+sudo apt update
+
+![image](https://github.com/user-attachments/assets/18198c82-bcae-4a58-b88d-73d2c18af2cf)
+
+<br>
+
+sudo apt install apache2
+
+![image](https://github.com/user-attachments/assets/7f9716fb-0fdd-4375-9d68-6ffdebf3dd45)
+
+<br>
+
+systemctl status apache2
+
+![image](https://github.com/user-attachments/assets/ff430974-ca14-4ad6-be73-5ba4a2757602)
+
+<br>
+
+Permit HTTP and HTTPS ports from the firewall
+
+![image](https://github.com/user-attachments/assets/7c055f61-c31f-4212-b7e9-fe21557c2db9)
+
+<br>
+
 ## Open Web URL
 
 <br>
