@@ -502,6 +502,8 @@ Permit HTTP and HTTPS ports from the firewall
 
 <br>
 
+Webpage is not secure
+
 Open IP → 134.122.x.x
 
 ![image](https://github.com/user-attachments/assets/11551167-33d4-46da-b508-1f3ae1d24899)
@@ -583,6 +585,60 @@ systemctl restart apache2
 <br>
 
 ## SSL install
+
+<br>
+
+Free SSL certificate for 3 months
+
+sudo apt install certbot python3-certbot-apache
+
+![image](https://github.com/user-attachments/assets/d6449879-5199-4a65-8cba-983df99aa89b)
+
+<br>
+
+certbot --apache -d tech.ibbtechwpdemo.run.place
+
+...@gmail.com
+
+y y
+
+![image](https://github.com/user-attachments/assets/2c01e37b-02b0-4af7-88a5-f2e1b60a8910)
+
+![image](https://github.com/user-attachments/assets/aa561c2c-7895-48d9-b0e2-16ab74844a76)
+
+<br>
+
+Webpage is secure now
+
+https://tech.ibbtechwpdemo.run.place/
+
+![image](https://github.com/user-attachments/assets/3760e9d3-ce98-4629-a2b5-9db43e33ef37)
+
+![image](https://github.com/user-attachments/assets/f767a389-2184-4338-962f-727562c4d997)
+
+![image](https://github.com/user-attachments/assets/a8e15cba-c79b-4775-972a-ac996ed12f6b)
+
+<br>
+
+A new SSL config file created
+
+![image](https://github.com/user-attachments/assets/29717ab5-d47d-4f4e-8fd6-6ea0ba730184)
+
+<br>
+
+Config file content has access to HTTPS 443 port and SSL certificate paths
+
+more 000-default-le-ssl.conf
+
+![image](https://github.com/user-attachments/assets/91c4e01c-6f03-466b-8f65-dae609444afb)
+
+<br>
+
+SSL certificate files
+
+ll /etc/letsencrypt/live/tech.ibbtechwpdemo.run.place/
+
+![image](https://github.com/user-attachments/assets/fba27d53-7009-4d57-84dd-18e0d342241b)
 
 <br>
 
