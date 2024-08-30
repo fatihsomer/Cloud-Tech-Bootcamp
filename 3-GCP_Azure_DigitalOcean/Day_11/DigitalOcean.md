@@ -244,11 +244,51 @@ Domains → Add Domain
 
 <br>
 
+Create Resource Alert
+
+![image](https://github.com/user-attachments/assets/907f8e78-7453-4cc8-b9aa-e4274186effe)
+
+<br>
+
 ## Create Droplet
 
 <br>
 
+![image](https://github.com/user-attachments/assets/59023544-acf9-456d-a5d0-54167e5232e3)
+
+![image](https://github.com/user-attachments/assets/2d36af0b-0aa6-44d6-8c50-f92154bf7c38)
+
+![image](https://github.com/user-attachments/assets/03cb01c4-ef89-4849-bc62-e1636d18517f)
+
+<br>
+
+Username root
+
+![image](https://github.com/user-attachments/assets/87ec753c-6e64-479b-82f0-d0edb4c4a36b)
+
+![image](https://github.com/user-attachments/assets/1fdb53d3-6480-409e-b496-c24184118597)
+
+![image](https://github.com/user-attachments/assets/5726e0a8-6ae8-45ef-bd37-42627359f2e4)
+
+![image](https://github.com/user-attachments/assets/f407428a-071a-4094-bb50-68cf503a46c0)
+
+![image](https://github.com/user-attachments/assets/d2f8a056-de48-41b4-92f8-9bf6bd9d4c7f)
+
+<br>
+
 ## Connect via SSH
+
+<br>
+
+![image](https://github.com/user-attachments/assets/398e5f16-6d7d-40b0-961a-b0601ac2b3fd)
+
+![image](https://github.com/user-attachments/assets/caefc1f4-1ec9-45f7-b9ea-835e15654b4e)
+
+<br>
+
+GUI Console
+
+![image](https://github.com/user-attachments/assets/c38d0b54-8569-4910-a296-2a1e8c34e92c)
 
 <br>
 
