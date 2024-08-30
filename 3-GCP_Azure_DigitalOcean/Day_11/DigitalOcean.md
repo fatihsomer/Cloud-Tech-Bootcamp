@@ -684,6 +684,18 @@ certbot renew --dry-run
 
 <br>
 
+Search from Google
+
+![image](https://github.com/user-attachments/assets/a3319bd3-4980-4563-ac0b-c8ffc3b5746d)
+
+<br>
+
+Order and Purchase SSL certificate
+
+![image](https://github.com/user-attachments/assets/cfe66c44-9537-4eef-8a1d-9fdab97c9858)
+
+<br>
+
 ## Crontab
 
 <br>
