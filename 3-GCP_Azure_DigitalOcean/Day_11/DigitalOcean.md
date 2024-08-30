@@ -696,6 +696,32 @@ Order and Purchase SSL certificate
 
 <br>
 
+After purchase confirmation, SSL keys will be sent via Email, download SSL certificate files and transferred to the server
+
+<br>
+
+Go to config file path
+
+cd /etc/apache2/sites-enabled/
+
+![image](https://github.com/user-attachments/assets/4a999c87-baa2-4b48-886d-67e6b5712efd)
+
+<br>
+
+Add SSL certificate files path into the config file
+
+SSLCertificateFile /etc/ssl/certs/domaincet.crt      
+
+SSLCertificateKeyFile /etc/ssl/private/tech.devopslearnwith.us.key      
+
+SSLCertificateChainFile /etc/ssl/certs/root_ca.crt
+
+nano 000-default-le-ssl.conf
+
+![image](https://github.com/user-attachments/assets/0a847b6e-6905-49cb-9b27-ce39a02678b6)
+
+<br>
+
 ## Crontab
 
 <br>
