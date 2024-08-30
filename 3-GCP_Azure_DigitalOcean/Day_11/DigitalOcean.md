@@ -516,6 +516,72 @@ Open URL → http://tech.ibbtechwpdemo.run.place/
 
 <br>
 
+Latest executed commands
+
+history
+
+![image](https://github.com/user-attachments/assets/e3118ce8-b0e4-495a-a841-66452a31bf6a)
+
+<br>
+
+cd /etc/apache2/
+
+ll
+
+![image](https://github.com/user-attachments/assets/ddd9487e-077a-40ef-b327-8537bc8d9396)
+
+<br>
+
+Display apache config file
+
+more apache2.conf
+
+![image](https://github.com/user-attachments/assets/b57066fc-dd2a-478b-b6c7-f985008a1554)
+
+![image](https://github.com/user-attachments/assets/ea643f83-13d4-4fc9-b432-320abd0e5068)
+
+<br>
+
+cd sites-enabled/
+
+ll
+
+![image](https://github.com/user-attachments/assets/f538658e-8f1e-49eb-ac1a-338b4c755057)
+
+<br>
+
+Edit config file
+
+nano 000-default.conf
+
+![image](https://github.com/user-attachments/assets/1315f3cd-efd4-4ac4-8c48-862baaf01c82)
+
+<br>
+
+Website address added
+
+tech.ibbtechwpdemo.run.place
+
+![image](https://github.com/user-attachments/assets/3466c18a-8903-427d-84a7-c002316d3a1d)
+
+Save file
+
+CTRL+x → y → enter
+
+<br>
+
+sudo apachectl configtest
+
+![image](https://github.com/user-attachments/assets/64a354c2-a25f-430d-88fb-25ae3d571f13)
+
+<br>
+
+systemctl restart apache2
+
+![image](https://github.com/user-attachments/assets/af64b76e-cd64-4579-b548-e037d4353fef)
+
+<br>
+
 ## SSL install
 
 <br>
