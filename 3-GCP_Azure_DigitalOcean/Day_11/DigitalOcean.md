@@ -608,18 +608,6 @@ y y
 
 <br>
 
-Webpage is secure now
-
-https://tech.ibbtechwpdemo.run.place/
-
-![image](https://github.com/user-attachments/assets/3760e9d3-ce98-4629-a2b5-9db43e33ef37)
-
-![image](https://github.com/user-attachments/assets/f767a389-2184-4338-962f-727562c4d997)
-
-![image](https://github.com/user-attachments/assets/a8e15cba-c79b-4775-972a-ac996ed12f6b)
-
-<br>
-
 A new SSL config file created
 
 ![image](https://github.com/user-attachments/assets/29717ab5-d47d-4f4e-8fd6-6ea0ba730184)
@@ -639,6 +627,18 @@ SSL certificate files
 ll /etc/letsencrypt/live/tech.ibbtechwpdemo.run.place/
 
 ![image](https://github.com/user-attachments/assets/fba27d53-7009-4d57-84dd-18e0d342241b)
+
+<br>
+
+Webpage is secure now
+
+https://tech.ibbtechwpdemo.run.place/
+
+![image](https://github.com/user-attachments/assets/3760e9d3-ce98-4629-a2b5-9db43e33ef37)
+
+![image](https://github.com/user-attachments/assets/f767a389-2184-4338-962f-727562c4d997)
+
+![image](https://github.com/user-attachments/assets/a8e15cba-c79b-4775-972a-ac996ed12f6b)
 
 <br>
 
