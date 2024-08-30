@@ -296,11 +296,47 @@ GUI Console
 
 <br>
 
+Create new or use existing EC2 instance [EC2](EC2)
+
+<br>
+
 ## File Transfer
 
 <br>
 
+Server pem key transferred for SSH connection
+
+![image](https://github.com/user-attachments/assets/37f9cee9-4da1-4238-964f-7d37860a1486)
+
+![image](https://github.com/user-attachments/assets/a61d9ced-0c72-42bb-920b-32a19cb966f4)
+
+<br>
+
+ll
+
+![image](https://github.com/user-attachments/assets/13a87fcf-ed15-4903-a241-00dc714a9127)
+
+<br>
+
+Give file permission
+
+chmod 600 wordpress.pem
+
+![image](https://github.com/user-attachments/assets/43492d11-0b55-4e86-ba8a-7d84e2630219)
+
+<br>
+
 ## SSH Connection
+
+<br>
+
+Connect to AWS ubuntu via ssh
+
+DigitalOcean ubuntu → ssh → AWS ubuntu
+
+ssh -i wordpress.pem ubuntu@18.197.x.x 
+
+![image](https://github.com/user-attachments/assets/c971c3aa-3f43-41d6-9d50-16acb0a14b0f)
 
 <br>
 
