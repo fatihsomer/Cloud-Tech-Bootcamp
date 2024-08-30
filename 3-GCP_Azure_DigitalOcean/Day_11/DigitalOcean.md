@@ -496,8 +496,6 @@ Permit HTTP and HTTPS ports from the firewall
 
 ![image](https://github.com/user-attachments/assets/7c055f61-c31f-4212-b7e9-fe21557c2db9)
 
-![image](https://github.com/user-attachments/assets/11551167-33d4-46da-b508-1f3ae1d24899)
-
 <br>
 
 ## Open Web URL
@@ -505,6 +503,10 @@ Permit HTTP and HTTPS ports from the firewall
 <br>
 
 http://tech.ibbtechwpdemo.run.place/
+
+![image](https://github.com/user-attachments/assets/11551167-33d4-46da-b508-1f3ae1d24899)
+
+![image](https://github.com/user-attachments/assets/74828c29-3fb9-4880-bbbb-0fe8ed9badf2)
 
 <br>
 
