@@ -4,6 +4,12 @@ _**Day 11 - 29.08.2024 Thursday**_
 
 - [Sign up](#Sign-up)
 
+  - [Dashboard](#Dashboard)
+
+  - [Billing](#Billing)
+
+  - [Support](#Support)
+
 - [Dashboard](#Dashboard)
 
   - [Projects](#Projects)
@@ -74,7 +80,61 @@ _**Day 11 - 29.08.2024 Thursday**_
 
 <br>
 
+![image](https://github.com/user-attachments/assets/b9133846-7215-4572-b163-5d741f718e0a)
+
+![image](https://github.com/user-attachments/assets/e674c9d9-4e3e-49fb-ae95-460822e8390e)
+
+![image](https://github.com/user-attachments/assets/5dd8aed2-acbe-4734-b73c-d340664fffc5)
+
+Credit Card and Address information
+
+![image](https://github.com/user-attachments/assets/a44bae0c-c99a-40bc-ba32-65be4c2fc73b)
+
+![image](https://github.com/user-attachments/assets/737e1643-ef17-430f-81c2-2c09c62f42e6)
+
+<br>
+
+### Dashboard
+
+<br>
+
+https://cloud.digitalocean.com/projects/
+
+![image](https://github.com/user-attachments/assets/625d028f-979f-47e0-aeb0-d50e0018b935)
+
+<br>
+
+### Billing
+
+<br>
+
+https://cloud.digitalocean.com/account/billing
+
+![image](https://github.com/user-attachments/assets/229f0f5d-bb97-4ac7-bec2-f08732302b64)
+
+<br>
+
+Settings → Enable Alert
+
+![image](https://github.com/user-attachments/assets/d118e237-b869-49b3-8dc8-d6b796cc6c09)
+
+![image](https://github.com/user-attachments/assets/d0a0f395-3e59-440d-895d-c6e615a85acf)
+
+![image](https://github.com/user-attachments/assets/92511238-fb2a-424c-a29f-f568007d08c1)
+
+<br>
+
+### Support
+
+<br>
+
+![image](https://github.com/user-attachments/assets/4be6cb69-3422-44ec-a234-7102a83e755e)
+
+<br>
+
 ## Dashboard
+
+<br>
 
 <br>
 
