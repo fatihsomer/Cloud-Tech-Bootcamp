@@ -4,6 +4,7 @@ _**Day 11 - 29.08.2024 Thursday**_
 
 Today's Lesson video :
 
+https://www.youtube.com/watch?v=gAQ9hxfqT8E
 
 <br>
 
