@@ -710,11 +710,11 @@ cd /etc/apache2/sites-enabled/
 
 Add SSL certificate files path into the config file
 
-SSLCertificateFile /etc/ssl/certs/domaincet.crt      
+- SSLCertificateFile /etc/ssl/certs/domaincet.crt      
 
-SSLCertificateKeyFile /etc/ssl/private/tech.devopslearnwith.us.key      
+- SSLCertificateKeyFile /etc/ssl/private/tech.devopslearnwith.us.key      
 
-SSLCertificateChainFile /etc/ssl/certs/root_ca.crt
+- SSLCertificateChainFile /etc/ssl/certs/root_ca.crt
 
 nano 000-default-le-ssl.conf
 
@@ -723,5 +723,21 @@ nano 000-default-le-ssl.conf
 <br>
 
 ## Crontab
+
+<br>
+
+Edit cron job file
+
+crontab -e
+
+![image](https://github.com/user-attachments/assets/37671430-5f84-41f0-a2da-cc6f748369a6)
+
+<br>
+
+Add date time and command
+
+0 0 26 11 2024 /usr/bin/certbot renew --quiet
+
+![image](https://github.com/user-attachments/assets/b228e05f-2a20-4abe-b585-55da70bfd606)
 
 <br>
