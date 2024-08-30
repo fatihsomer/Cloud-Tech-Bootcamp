@@ -10,6 +10,9 @@ https://www.youtube.com/watch?v=gAQ9hxfqT8E
 
 1- Digital Ocean [DigitalOcean.md](DigitalOcean.md)
 - Sign up
+  - Dashboard
+  - Billing
+  - Support
 - Dashboard
   - Projects
   - App
