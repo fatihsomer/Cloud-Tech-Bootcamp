@@ -502,9 +502,11 @@ Permit HTTP and HTTPS ports from the firewall
 
 <br>
 
-http://tech.ibbtechwpdemo.run.place/
+Open IP → 134.122.x.x
 
 ![image](https://github.com/user-attachments/assets/11551167-33d4-46da-b508-1f3ae1d24899)
+
+Open URL → http://tech.ibbtechwpdemo.run.place/
 
 ![image](https://github.com/user-attachments/assets/74828c29-3fb9-4880-bbbb-0fe8ed9badf2)
 
