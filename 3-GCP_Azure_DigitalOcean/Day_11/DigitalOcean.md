@@ -298,6 +298,8 @@ GUI Console
 
 Create new or use existing EC2 instance [EC2](EC2)
 
+![image](https://github.com/user-attachments/assets/26b8a242-80f9-417f-969f-4701d20122fe)
+
 <br>
 
 ## File Transfer
@@ -332,11 +334,15 @@ chmod 600 wordpress.pem
 
 Connect to AWS ubuntu via ssh
 
+AWS Ubuntu server Private IP 172.31.28.21
+
 DigitalOcean ubuntu → ssh → AWS ubuntu
 
 ssh -i wordpress.pem ubuntu@18.197.x.x 
 
 ![image](https://github.com/user-attachments/assets/c971c3aa-3f43-41d6-9d50-16acb0a14b0f)
+
+![image](https://github.com/user-attachments/assets/ff58c602-5780-44ef-ab83-9fc623700f59)
 
 <br>
 
