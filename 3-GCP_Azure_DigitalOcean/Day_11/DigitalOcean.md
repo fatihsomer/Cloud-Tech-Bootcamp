@@ -434,6 +434,38 @@ Networking → Firewalls → Create Firewalls
 
 <br>
 
+Add DNS A record into Cloudflare
+
+![image](https://github.com/user-attachments/assets/b13312be-a9ae-4131-b886-3a9761362f16)
+
+![image](https://github.com/user-attachments/assets/27317ed0-f5dd-4e18-a4f6-60c1d86a6846)
+
+![image](https://github.com/user-attachments/assets/95720077-62ba-47d7-aa4f-c10865f15579)
+
+<br>
+
+nslookup
+
+set type=a
+
+tech.devopslearnwith.us
+
+![image](https://github.com/user-attachments/assets/8850e117-7f7d-4c5c-a04f-e99999e4229c)
+
+<br>
+
+Add DNS A record into Free Domain
+
+![image](https://github.com/user-attachments/assets/a3cd40fb-6acd-4223-a1bb-824135e74cd2)
+
+![image](https://github.com/user-attachments/assets/527370a4-6cb0-4a01-aa9a-354f80daa04e)
+
+![image](https://github.com/user-attachments/assets/1741cebc-9b0f-4241-9770-75efc9bba575)
+
+![image](https://github.com/user-attachments/assets/6a8c39ca-87cc-4bde-a4fd-83b0de25c33b)
+
+<br>
+
 ## Install Web server
 
 <br>
