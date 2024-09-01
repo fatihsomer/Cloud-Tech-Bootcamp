@@ -8,9 +8,9 @@ https://www.youtube.com/watch?v=izt6iTPelFo&t=6474s
 
 <br>
 
-1- GCP
+1- GCP [GCP.md](GCP.md)
 
 <br>
 
-2- Azure
+2- Azure [Azure.md](Azure.md)
 
